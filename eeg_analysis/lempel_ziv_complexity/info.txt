@@ -1,0 +1,2 @@
+The function calc_lz_complexity() and binary_seq_to_string() can be found at:
+https://www.mathworks.com/matlabcentral/fileexchange/38211-calc_lz_complexity

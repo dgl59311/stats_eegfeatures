@@ -1,0 +1,4 @@
+,betw cen e-plv gamma,betw cen s-lcoh beta,betw cen s-lcoh gamma
+betw cen e-plv gamma_Fz,1.0,0.043,0.161
+betw cen s-lcoh beta_ROlfactoryGyrus,0.043,1.0,0.051
+betw cen s-lcoh gamma_RInferiorFrontalGyrusOrbitalPart,0.161,0.051,1.0

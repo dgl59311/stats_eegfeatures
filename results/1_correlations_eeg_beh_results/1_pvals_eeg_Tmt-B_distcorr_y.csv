@@ -1,0 +1,15 @@
+,betw cen e-plv beta,betw cen s-lcoh alpha,clust coef e-icoh theta,clust coef e-plv beta,clust coef e-plv delta,clust coef e-plv theta,clust coef e-wpli theta,clust coef s-lcoh theta,node str e-icoh theta,node str e-plv beta,node str e-plv delta,node str e-plv theta,node str e-wpli theta,node str s-lcoh beta
+betw cen e-plv beta_C3,1.0,0.629,0.014,0.311,0.265,0.244,0.131,0.022,0.017,0.194,0.226,0.265,0.154,0.626
+betw cen s-lcoh alpha_RCalcarineSulcus,0.629,1.0,0.058,0.254,0.237,0.083,0.017,0.145,0.072,0.205,0.204,0.072,0.011,0.809
+clust coef e-icoh theta_O1,0.014,0.058,1.0,0.072,0.703,0.0,0.0,0.0,0.0,0.035,0.81,0.0,0.0,0.016
+clust coef e-plv beta_F5,0.311,0.254,0.072,1.0,0.002,0.0,0.225,0.79,0.057,0.0,0.001,0.0,0.425,0.0
+clust coef e-plv delta_F2,0.265,0.237,0.703,0.002,1.0,0.0,0.646,0.689,0.758,0.006,0.0,0.0,0.509,0.916
+clust coef e-plv theta_F2,0.244,0.083,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.131
+clust coef e-wpli theta_TP7,0.131,0.017,0.0,0.225,0.646,0.0,1.0,0.0,0.0,0.173,0.771,0.0,0.0,0.117
+clust coef s-lcoh theta_LFusiformGyrus,0.022,0.145,0.0,0.79,0.689,0.0,0.0,1.0,0.0,0.544,0.918,0.0,0.0,0.023
+node str e-icoh theta_O1,0.017,0.072,0.0,0.057,0.758,0.0,0.0,0.0,1.0,0.019,0.792,0.0,0.0,0.034
+node str e-plv beta_F5,0.194,0.205,0.035,0.0,0.006,0.0,0.173,0.544,0.019,1.0,0.005,0.0,0.219,0.0
+node str e-plv delta_F2,0.226,0.204,0.81,0.001,0.0,0.0,0.771,0.918,0.792,0.005,1.0,0.0,0.586,0.967
+node str e-plv theta_F2,0.265,0.072,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.001,0.114
+node str e-wpli theta_TP7,0.154,0.011,0.0,0.425,0.509,0.0,0.0,0.0,0.0,0.219,0.586,0.001,1.0,0.41
+node str s-lcoh beta_RParacentralLobule,0.626,0.809,0.016,0.0,0.916,0.131,0.117,0.023,0.034,0.0,0.967,0.114,0.41,1.0

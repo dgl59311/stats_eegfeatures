@@ -1,0 +1,6 @@
+,approx entropy,betw cen s-lps delta,lyapunov exponent,rqa entropy,rqa mean diagonal
+approx entropy_PO3,1.0,0.028,0.0,0.0,0.0
+betw cen s-lps delta_RPostcentralGyrus,0.028,1.0,0.041,0.007,0.015
+lyapunov exponent_CP4,0.0,0.041,1.0,0.0,0.0
+rqa entropy_CP4,0.0,0.007,0.0,1.0,0.0
+rqa mean diagonal_CP4,0.0,0.015,0.0,0.0,1.0

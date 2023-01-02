@@ -1,0 +1,2 @@
+This analysis is based on the functions get_epoch_window(), get_window(), and rEEG(), which can be found at:
+www.mathworks.com/matlabcentral/fileexchange/108494-neural-a-eeg-feature-set-for-newborns

@@ -1,0 +1,6 @@
+,mod index theta-beta,relative ampl alpha,source ampl alpha,source ampl gamma,spectral entropy alpha
+mod index theta-beta_O2,1.0,0.0,0.013,0.028,0.0
+relative ampl alpha_TP8,0.0,1.0,0.0,0.117,0.0
+source ampl alpha_LPrecentralGyrus,0.013,0.0,1.0,0.026,0.0
+source ampl gamma_RPrecuneus,0.028,0.117,0.026,1.0,0.083
+spectral entropy alpha_Cz,0.0,0.0,0.0,0.083,1.0

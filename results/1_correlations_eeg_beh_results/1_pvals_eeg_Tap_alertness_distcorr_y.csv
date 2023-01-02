@@ -1,0 +1,4 @@
+,betw cen e-icoh alpha,betw cen e-icoh delta,node str s-lps alpha
+betw cen e-icoh alpha_AFz,1.0,0.422,0.141
+betw cen e-icoh delta_P2,0.422,1.0,0.246
+node str s-lps alpha_LSuperiorParietalLobule,0.141,0.246,1.0

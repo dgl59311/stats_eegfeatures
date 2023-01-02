@@ -1,0 +1,577 @@
+			Fitting
+			=======
+
+			Cartool  3.80  (6164)
+			2022/10/31  18:01
+
+
+
+	Data Preprocessing:
+	-------------------
+Spatial Filter:                         No Spatial Filter
+
+Data levels normalization:              No
+
+Deleting temporary preprocessed files:  No
+
+
+	Epochs:
+	-------
+Number of epochs to be fitted:          1
+
+Epoch #:                                1
+From Time Frame:                        0
+To   Time Frame:                        32766
+With Maps / Templates:                  *
+
+Bad epochs:                             Not skipping bad epochs
+
+
+	Fitting Method:
+	---------------
+Number of templates:                    5
+
+Fitting process is:                     Competitive
+
+Labeling at low Correlations:           No
+No labeling if below Correlation:       50.00 [%]
+
+Data type:                              Signed Data
+Data Ranking:                           No
+Data reference:                         Average Reference
+Data Correlation reference:             Average Reference
+Data polarity:                          Ignore
+
+
+	Templates:
+	----------
+Templates type:                         Signed Data
+Templates Ranking:                      No
+Templates reference:                    Average Reference
+Templates Correlation reference:        Average Reference
+Templates polarity:                     Ignore
+
+
+	Temporal Postprocessings:
+	-------------------------
+Smoothing:                              Yes
+Smoothing half window size:             2
+Smoothing strength (Besag factor):      10.00
+
+Rejecting small segments:               Yes
+Rejecting segment less or equal to:     3
+
+Sampling Frequency:                     125.00
+
+
+	Variables Computed:
+	-------------------
+Number of variables computed:           4
+One output file per group of files:     Yes
+One output file per variable:           No
+Short variable names:                   No
+
+Global Explained Variance:              Group*_Map*_Gev
+Mean Segment Duration:                  Group*_Map*_MeanDur
+Time Coverage:                          Group*_Map*_TimeCov
+Segment Count Density:                  Group*_Map*_SegDensity
+
+
+	Markov Chains:
+	--------------
+Computing Joint States Probabilities:   No
+Computing Markov Transition Matrices:   No
+
+
+	Resting States:
+	---------------
+Histograms of Segments durations:       No
+Computing Segments frequencies:         No
+Time Course of Correlations:            Yes
+
+
+	Input Files:
+	------------
+Template file:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\GC microstates_preprocessing.m.05.(05).ep
+
+Number of groups of files:              1
+# of Consecutive groups within subjects:1
+
+Group #:                                1
+Number of files:                        201
+File 001                                C:\Users\gordillo\Desktop\local_cartool\sub-010002_EC_zero.eph
+File 002                                C:\Users\gordillo\Desktop\local_cartool\sub-010003_EC_zero.eph
+File 003                                C:\Users\gordillo\Desktop\local_cartool\sub-010004_EC_zero.eph
+File 004                                C:\Users\gordillo\Desktop\local_cartool\sub-010005_EC_zero.eph
+File 005                                C:\Users\gordillo\Desktop\local_cartool\sub-010006_EC_zero.eph
+File 006                                C:\Users\gordillo\Desktop\local_cartool\sub-010007_EC_zero.eph
+File 007                                C:\Users\gordillo\Desktop\local_cartool\sub-010010_EC_zero.eph
+File 008                                C:\Users\gordillo\Desktop\local_cartool\sub-010012_EC_zero.eph
+File 009                                C:\Users\gordillo\Desktop\local_cartool\sub-010016_EC_zero.eph
+File 010                                C:\Users\gordillo\Desktop\local_cartool\sub-010017_EC_zero.eph
+File 011                                C:\Users\gordillo\Desktop\local_cartool\sub-010019_EC_zero.eph
+File 012                                C:\Users\gordillo\Desktop\local_cartool\sub-010020_EC_zero.eph
+File 013                                C:\Users\gordillo\Desktop\local_cartool\sub-010021_EC_zero.eph
+File 014                                C:\Users\gordillo\Desktop\local_cartool\sub-010022_EC_zero.eph
+File 015                                C:\Users\gordillo\Desktop\local_cartool\sub-010023_EC_zero.eph
+File 016                                C:\Users\gordillo\Desktop\local_cartool\sub-010024_EC_zero.eph
+File 017                                C:\Users\gordillo\Desktop\local_cartool\sub-010026_EC_zero.eph
+File 018                                C:\Users\gordillo\Desktop\local_cartool\sub-010027_EC_zero.eph
+File 019                                C:\Users\gordillo\Desktop\local_cartool\sub-010028_EC_zero.eph
+File 020                                C:\Users\gordillo\Desktop\local_cartool\sub-010029_EC_zero.eph
+File 021                                C:\Users\gordillo\Desktop\local_cartool\sub-010030_EC_zero.eph
+File 022                                C:\Users\gordillo\Desktop\local_cartool\sub-010031_EC_zero.eph
+File 023                                C:\Users\gordillo\Desktop\local_cartool\sub-010032_EC_zero.eph
+File 024                                C:\Users\gordillo\Desktop\local_cartool\sub-010033_EC_zero.eph
+File 025                                C:\Users\gordillo\Desktop\local_cartool\sub-010034_EC_zero.eph
+File 026                                C:\Users\gordillo\Desktop\local_cartool\sub-010035_EC_zero.eph
+File 027                                C:\Users\gordillo\Desktop\local_cartool\sub-010036_EC_zero.eph
+File 028                                C:\Users\gordillo\Desktop\local_cartool\sub-010037_EC_zero.eph
+File 029                                C:\Users\gordillo\Desktop\local_cartool\sub-010038_EC_zero.eph
+File 030                                C:\Users\gordillo\Desktop\local_cartool\sub-010039_EC_zero.eph
+File 031                                C:\Users\gordillo\Desktop\local_cartool\sub-010040_EC_zero.eph
+File 032                                C:\Users\gordillo\Desktop\local_cartool\sub-010041_EC_zero.eph
+File 033                                C:\Users\gordillo\Desktop\local_cartool\sub-010042_EC_zero.eph
+File 034                                C:\Users\gordillo\Desktop\local_cartool\sub-010044_EC_zero.eph
+File 035                                C:\Users\gordillo\Desktop\local_cartool\sub-010045_EC_zero.eph
+File 036                                C:\Users\gordillo\Desktop\local_cartool\sub-010046_EC_zero.eph
+File 037                                C:\Users\gordillo\Desktop\local_cartool\sub-010047_EC_zero.eph
+File 038                                C:\Users\gordillo\Desktop\local_cartool\sub-010048_EC_zero.eph
+File 039                                C:\Users\gordillo\Desktop\local_cartool\sub-010049_EC_zero.eph
+File 040                                C:\Users\gordillo\Desktop\local_cartool\sub-010050_EC_zero.eph
+File 041                                C:\Users\gordillo\Desktop\local_cartool\sub-010051_EC_zero.eph
+File 042                                C:\Users\gordillo\Desktop\local_cartool\sub-010052_EC_zero.eph
+File 043                                C:\Users\gordillo\Desktop\local_cartool\sub-010053_EC_zero.eph
+File 044                                C:\Users\gordillo\Desktop\local_cartool\sub-010056_EC_zero.eph
+File 045                                C:\Users\gordillo\Desktop\local_cartool\sub-010059_EC_zero.eph
+File 046                                C:\Users\gordillo\Desktop\local_cartool\sub-010060_EC_zero.eph
+File 047                                C:\Users\gordillo\Desktop\local_cartool\sub-010061_EC_zero.eph
+File 048                                C:\Users\gordillo\Desktop\local_cartool\sub-010062_EC_zero.eph
+File 049                                C:\Users\gordillo\Desktop\local_cartool\sub-010063_EC_zero.eph
+File 050                                C:\Users\gordillo\Desktop\local_cartool\sub-010064_EC_zero.eph
+File 051                                C:\Users\gordillo\Desktop\local_cartool\sub-010065_EC_zero.eph
+File 052                                C:\Users\gordillo\Desktop\local_cartool\sub-010066_EC_zero.eph
+File 053                                C:\Users\gordillo\Desktop\local_cartool\sub-010067_EC_zero.eph
+File 054                                C:\Users\gordillo\Desktop\local_cartool\sub-010068_EC_zero.eph
+File 055                                C:\Users\gordillo\Desktop\local_cartool\sub-010069_EC_zero.eph
+File 056                                C:\Users\gordillo\Desktop\local_cartool\sub-010070_EC_zero.eph
+File 057                                C:\Users\gordillo\Desktop\local_cartool\sub-010071_EC_zero.eph
+File 058                                C:\Users\gordillo\Desktop\local_cartool\sub-010072_EC_zero.eph
+File 059                                C:\Users\gordillo\Desktop\local_cartool\sub-010073_EC_zero.eph
+File 060                                C:\Users\gordillo\Desktop\local_cartool\sub-010074_EC_zero.eph
+File 061                                C:\Users\gordillo\Desktop\local_cartool\sub-010075_EC_zero.eph
+File 062                                C:\Users\gordillo\Desktop\local_cartool\sub-010076_EC_zero.eph
+File 063                                C:\Users\gordillo\Desktop\local_cartool\sub-010079_EC_zero.eph
+File 064                                C:\Users\gordillo\Desktop\local_cartool\sub-010080_EC_zero.eph
+File 065                                C:\Users\gordillo\Desktop\local_cartool\sub-010081_EC_zero.eph
+File 066                                C:\Users\gordillo\Desktop\local_cartool\sub-010083_EC_zero.eph
+File 067                                C:\Users\gordillo\Desktop\local_cartool\sub-010084_EC_zero.eph
+File 068                                C:\Users\gordillo\Desktop\local_cartool\sub-010085_EC_zero.eph
+File 069                                C:\Users\gordillo\Desktop\local_cartool\sub-010086_EC_zero.eph
+File 070                                C:\Users\gordillo\Desktop\local_cartool\sub-010088_EC_zero.eph
+File 071                                C:\Users\gordillo\Desktop\local_cartool\sub-010089_EC_zero.eph
+File 072                                C:\Users\gordillo\Desktop\local_cartool\sub-010090_EC_zero.eph
+File 073                                C:\Users\gordillo\Desktop\local_cartool\sub-010091_EC_zero.eph
+File 074                                C:\Users\gordillo\Desktop\local_cartool\sub-010092_EC_zero.eph
+File 075                                C:\Users\gordillo\Desktop\local_cartool\sub-010093_EC_zero.eph
+File 076                                C:\Users\gordillo\Desktop\local_cartool\sub-010094_EC_zero.eph
+File 077                                C:\Users\gordillo\Desktop\local_cartool\sub-010104_EC_zero.eph
+File 078                                C:\Users\gordillo\Desktop\local_cartool\sub-010126_EC_zero.eph
+File 079                                C:\Users\gordillo\Desktop\local_cartool\sub-010134_EC_zero.eph
+File 080                                C:\Users\gordillo\Desktop\local_cartool\sub-010136_EC_zero.eph
+File 081                                C:\Users\gordillo\Desktop\local_cartool\sub-010137_EC_zero.eph
+File 082                                C:\Users\gordillo\Desktop\local_cartool\sub-010138_EC_zero.eph
+File 083                                C:\Users\gordillo\Desktop\local_cartool\sub-010141_EC_zero.eph
+File 084                                C:\Users\gordillo\Desktop\local_cartool\sub-010142_EC_zero.eph
+File 085                                C:\Users\gordillo\Desktop\local_cartool\sub-010146_EC_zero.eph
+File 086                                C:\Users\gordillo\Desktop\local_cartool\sub-010148_EC_zero.eph
+File 087                                C:\Users\gordillo\Desktop\local_cartool\sub-010150_EC_zero.eph
+File 088                                C:\Users\gordillo\Desktop\local_cartool\sub-010152_EC_zero.eph
+File 089                                C:\Users\gordillo\Desktop\local_cartool\sub-010155_EC_zero.eph
+File 090                                C:\Users\gordillo\Desktop\local_cartool\sub-010157_EC_zero.eph
+File 091                                C:\Users\gordillo\Desktop\local_cartool\sub-010162_EC_zero.eph
+File 092                                C:\Users\gordillo\Desktop\local_cartool\sub-010163_EC_zero.eph
+File 093                                C:\Users\gordillo\Desktop\local_cartool\sub-010164_EC_zero.eph
+File 094                                C:\Users\gordillo\Desktop\local_cartool\sub-010165_EC_zero.eph
+File 095                                C:\Users\gordillo\Desktop\local_cartool\sub-010166_EC_zero.eph
+File 096                                C:\Users\gordillo\Desktop\local_cartool\sub-010168_EC_zero.eph
+File 097                                C:\Users\gordillo\Desktop\local_cartool\sub-010170_EC_zero.eph
+File 098                                C:\Users\gordillo\Desktop\local_cartool\sub-010176_EC_zero.eph
+File 099                                C:\Users\gordillo\Desktop\local_cartool\sub-010183_EC_zero.eph
+File 100                                C:\Users\gordillo\Desktop\local_cartool\sub-010191_EC_zero.eph
+File 101                                C:\Users\gordillo\Desktop\local_cartool\sub-010192_EC_zero.eph
+File 102                                C:\Users\gordillo\Desktop\local_cartool\sub-010194_EC_zero.eph
+File 103                                C:\Users\gordillo\Desktop\local_cartool\sub-010195_EC_zero.eph
+File 104                                C:\Users\gordillo\Desktop\local_cartool\sub-010196_EC_zero.eph
+File 105                                C:\Users\gordillo\Desktop\local_cartool\sub-010197_EC_zero.eph
+File 106                                C:\Users\gordillo\Desktop\local_cartool\sub-010199_EC_zero.eph
+File 107                                C:\Users\gordillo\Desktop\local_cartool\sub-010200_EC_zero.eph
+File 108                                C:\Users\gordillo\Desktop\local_cartool\sub-010201_EC_zero.eph
+File 109                                C:\Users\gordillo\Desktop\local_cartool\sub-010202_EC_zero.eph
+File 110                                C:\Users\gordillo\Desktop\local_cartool\sub-010204_EC_zero.eph
+File 111                                C:\Users\gordillo\Desktop\local_cartool\sub-010207_EC_zero.eph
+File 112                                C:\Users\gordillo\Desktop\local_cartool\sub-010210_EC_zero.eph
+File 113                                C:\Users\gordillo\Desktop\local_cartool\sub-010213_EC_zero.eph
+File 114                                C:\Users\gordillo\Desktop\local_cartool\sub-010214_EC_zero.eph
+File 115                                C:\Users\gordillo\Desktop\local_cartool\sub-010215_EC_zero.eph
+File 116                                C:\Users\gordillo\Desktop\local_cartool\sub-010218_EC_zero.eph
+File 117                                C:\Users\gordillo\Desktop\local_cartool\sub-010219_EC_zero.eph
+File 118                                C:\Users\gordillo\Desktop\local_cartool\sub-010220_EC_zero.eph
+File 119                                C:\Users\gordillo\Desktop\local_cartool\sub-010222_EC_zero.eph
+File 120                                C:\Users\gordillo\Desktop\local_cartool\sub-010223_EC_zero.eph
+File 121                                C:\Users\gordillo\Desktop\local_cartool\sub-010224_EC_zero.eph
+File 122                                C:\Users\gordillo\Desktop\local_cartool\sub-010226_EC_zero.eph
+File 123                                C:\Users\gordillo\Desktop\local_cartool\sub-010227_EC_zero.eph
+File 124                                C:\Users\gordillo\Desktop\local_cartool\sub-010228_EC_zero.eph
+File 125                                C:\Users\gordillo\Desktop\local_cartool\sub-010229_EC_zero.eph
+File 126                                C:\Users\gordillo\Desktop\local_cartool\sub-010230_EC_zero.eph
+File 127                                C:\Users\gordillo\Desktop\local_cartool\sub-010231_EC_zero.eph
+File 128                                C:\Users\gordillo\Desktop\local_cartool\sub-010232_EC_zero.eph
+File 129                                C:\Users\gordillo\Desktop\local_cartool\sub-010233_EC_zero.eph
+File 130                                C:\Users\gordillo\Desktop\local_cartool\sub-010234_EC_zero.eph
+File 131                                C:\Users\gordillo\Desktop\local_cartool\sub-010236_EC_zero.eph
+File 132                                C:\Users\gordillo\Desktop\local_cartool\sub-010238_EC_zero.eph
+File 133                                C:\Users\gordillo\Desktop\local_cartool\sub-010239_EC_zero.eph
+File 134                                C:\Users\gordillo\Desktop\local_cartool\sub-010240_EC_zero.eph
+File 135                                C:\Users\gordillo\Desktop\local_cartool\sub-010241_EC_zero.eph
+File 136                                C:\Users\gordillo\Desktop\local_cartool\sub-010242_EC_zero.eph
+File 137                                C:\Users\gordillo\Desktop\local_cartool\sub-010243_EC_zero.eph
+File 138                                C:\Users\gordillo\Desktop\local_cartool\sub-010244_EC_zero.eph
+File 139                                C:\Users\gordillo\Desktop\local_cartool\sub-010245_EC_zero.eph
+File 140                                C:\Users\gordillo\Desktop\local_cartool\sub-010246_EC_zero.eph
+File 141                                C:\Users\gordillo\Desktop\local_cartool\sub-010247_EC_zero.eph
+File 142                                C:\Users\gordillo\Desktop\local_cartool\sub-010248_EC_zero.eph
+File 143                                C:\Users\gordillo\Desktop\local_cartool\sub-010249_EC_zero.eph
+File 144                                C:\Users\gordillo\Desktop\local_cartool\sub-010250_EC_zero.eph
+File 145                                C:\Users\gordillo\Desktop\local_cartool\sub-010251_EC_zero.eph
+File 146                                C:\Users\gordillo\Desktop\local_cartool\sub-010252_EC_zero.eph
+File 147                                C:\Users\gordillo\Desktop\local_cartool\sub-010254_EC_zero.eph
+File 148                                C:\Users\gordillo\Desktop\local_cartool\sub-010255_EC_zero.eph
+File 149                                C:\Users\gordillo\Desktop\local_cartool\sub-010256_EC_zero.eph
+File 150                                C:\Users\gordillo\Desktop\local_cartool\sub-010257_EC_zero.eph
+File 151                                C:\Users\gordillo\Desktop\local_cartool\sub-010258_EC_zero.eph
+File 152                                C:\Users\gordillo\Desktop\local_cartool\sub-010260_EC_zero.eph
+File 153                                C:\Users\gordillo\Desktop\local_cartool\sub-010261_EC_zero.eph
+File 154                                C:\Users\gordillo\Desktop\local_cartool\sub-010262_EC_zero.eph
+File 155                                C:\Users\gordillo\Desktop\local_cartool\sub-010263_EC_zero.eph
+File 156                                C:\Users\gordillo\Desktop\local_cartool\sub-010264_EC_zero.eph
+File 157                                C:\Users\gordillo\Desktop\local_cartool\sub-010265_EC_zero.eph
+File 158                                C:\Users\gordillo\Desktop\local_cartool\sub-010266_EC_zero.eph
+File 159                                C:\Users\gordillo\Desktop\local_cartool\sub-010267_EC_zero.eph
+File 160                                C:\Users\gordillo\Desktop\local_cartool\sub-010268_EC_zero.eph
+File 161                                C:\Users\gordillo\Desktop\local_cartool\sub-010269_EC_zero.eph
+File 162                                C:\Users\gordillo\Desktop\local_cartool\sub-010270_EC_zero.eph
+File 163                                C:\Users\gordillo\Desktop\local_cartool\sub-010271_EC_zero.eph
+File 164                                C:\Users\gordillo\Desktop\local_cartool\sub-010272_EC_zero.eph
+File 165                                C:\Users\gordillo\Desktop\local_cartool\sub-010273_EC_zero.eph
+File 166                                C:\Users\gordillo\Desktop\local_cartool\sub-010274_EC_zero.eph
+File 167                                C:\Users\gordillo\Desktop\local_cartool\sub-010275_EC_zero.eph
+File 168                                C:\Users\gordillo\Desktop\local_cartool\sub-010283_EC_zero.eph
+File 169                                C:\Users\gordillo\Desktop\local_cartool\sub-010284_EC_zero.eph
+File 170                                C:\Users\gordillo\Desktop\local_cartool\sub-010286_EC_zero.eph
+File 171                                C:\Users\gordillo\Desktop\local_cartool\sub-010287_EC_zero.eph
+File 172                                C:\Users\gordillo\Desktop\local_cartool\sub-010288_EC_zero.eph
+File 173                                C:\Users\gordillo\Desktop\local_cartool\sub-010289_EC_zero.eph
+File 174                                C:\Users\gordillo\Desktop\local_cartool\sub-010290_EC_zero.eph
+File 175                                C:\Users\gordillo\Desktop\local_cartool\sub-010291_EC_zero.eph
+File 176                                C:\Users\gordillo\Desktop\local_cartool\sub-010292_EC_zero.eph
+File 177                                C:\Users\gordillo\Desktop\local_cartool\sub-010294_EC_zero.eph
+File 178                                C:\Users\gordillo\Desktop\local_cartool\sub-010295_EC_zero.eph
+File 179                                C:\Users\gordillo\Desktop\local_cartool\sub-010296_EC_zero.eph
+File 180                                C:\Users\gordillo\Desktop\local_cartool\sub-010297_EC_zero.eph
+File 181                                C:\Users\gordillo\Desktop\local_cartool\sub-010298_EC_zero.eph
+File 182                                C:\Users\gordillo\Desktop\local_cartool\sub-010299_EC_zero.eph
+File 183                                C:\Users\gordillo\Desktop\local_cartool\sub-010300_EC_zero.eph
+File 184                                C:\Users\gordillo\Desktop\local_cartool\sub-010301_EC_zero.eph
+File 185                                C:\Users\gordillo\Desktop\local_cartool\sub-010302_EC_zero.eph
+File 186                                C:\Users\gordillo\Desktop\local_cartool\sub-010303_EC_zero.eph
+File 187                                C:\Users\gordillo\Desktop\local_cartool\sub-010304_EC_zero.eph
+File 188                                C:\Users\gordillo\Desktop\local_cartool\sub-010305_EC_zero.eph
+File 189                                C:\Users\gordillo\Desktop\local_cartool\sub-010306_EC_zero.eph
+File 190                                C:\Users\gordillo\Desktop\local_cartool\sub-010307_EC_zero.eph
+File 191                                C:\Users\gordillo\Desktop\local_cartool\sub-010308_EC_zero.eph
+File 192                                C:\Users\gordillo\Desktop\local_cartool\sub-010309_EC_zero.eph
+File 193                                C:\Users\gordillo\Desktop\local_cartool\sub-010310_EC_zero.eph
+File 194                                C:\Users\gordillo\Desktop\local_cartool\sub-010311_EC_zero.eph
+File 195                                C:\Users\gordillo\Desktop\local_cartool\sub-010314_EC_zero.eph
+File 196                                C:\Users\gordillo\Desktop\local_cartool\sub-010315_EC_zero.eph
+File 197                                C:\Users\gordillo\Desktop\local_cartool\sub-010316_EC_zero.eph
+File 198                                C:\Users\gordillo\Desktop\local_cartool\sub-010317_EC_zero.eph
+File 199                                C:\Users\gordillo\Desktop\local_cartool\sub-010318_EC_zero.eph
+File 200                                C:\Users\gordillo\Desktop\local_cartool\sub-010319_EC_zero.eph
+File 201                                C:\Users\gordillo\Desktop\local_cartool\sub-010321_EC_zero.eph
+
+
+	Output Files:
+	-------------
+Verbose file (this):                    C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\Fit GC microstates_preprocessing.m.05.(05).vrb
+Copy of Template file:                  C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\GC microstates_preprocessing.m.05.(05).ep
+Copy of Segmentation file:              C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\GC microstates_preprocessing.m.05.(05).seg
+
+Worksheet file for Cartool:             C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\Fit GC microstates_preprocessing.m.05.(05).Group*.LinesAsSamples.csv
+
+Segmentation file,  all subjects:       C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\Fit GC microstates_preprocessing.m.05.(05).Group*.seg
+Segmentation files, per subject :       C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\Segmentations\Fit GC microstates_preprocessing.m.05.(05).Group*.Subj*.seg
+
+Time Course of Correlations data/maps:  C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step3\Fit GC microstates_preprocessing.m.05.(05)\Correlations\Fit GC microstates_preprocessing.m.05.(05).Group*.Subj*.Corr.sef
+
+
+	Processing Summary:
+	-------------------
+Data are processed following the sequence:
+
+    Repeating for each epoch, or do once on all time frames:
+
+    * Labeling                      (always)
+    * Removing low correlations     (optional)
+    * Temporal smoothing            (optional)
+
+    Once on all time frames:
+
+    * Rejection of small segments   (optional)
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Correlations  Centroids x Centroids:
+	------------------------------------
+(multiplied by 100; -100 = opposite, 100 = identical)
+
+Map               1       2       3       4       5
+__________|________________________________________
+1               100      37      53      41      26
+2                37     100      58      47      28
+3                53      58     100      72      57
+4                41      47      72     100      16
+5                26      28      57      16     100
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Processing Group(s):
+	--------------------
+Group #:                                1 (201 files)
+
+
+
+	Labeled vs Unlabeled TFs:
+	-------------------------
+
+Force minimum Correlation:              Yes
+Min Correlation allowed for Labeling:   50.00 [%]
+
+
+File             EpochsTFs     LabeledTFs   UnlabeledTFs       Labeled%     Unlabeled%
+__________|___________________________________________________________________________
+Subj01               32767          31892            875          97.33           2.67
+Subj02               32767          32308            459          98.60           1.40
+Subj03               32767          32303            464          98.58           1.42
+Subj04               32767          32547            220          99.33           0.67
+Subj05               32767          32605            162          99.51           0.49
+Subj06               32767          32622            145          99.56           0.44
+Subj07               32767          32410            357          98.91           1.09
+Subj08               32767          32586            181          99.45           0.55
+Subj09               32767          32116            651          98.01           1.99
+Subj10               32767          32129            638          98.05           1.95
+Subj11               32767          32454            313          99.04           0.96
+Subj12               32767          32471            296          99.10           0.90
+Subj13               32767          32458            309          99.06           0.94
+Subj14               32767          32235            532          98.38           1.62
+Subj15               32767          32322            445          98.64           1.36
+Subj16               32767          32726             41          99.87           0.13
+Subj17               32767          32488            279          99.15           0.85
+Subj18               32767          32378            389          98.81           1.19
+Subj19               32767          32601            166          99.49           0.51
+Subj20               32767          32501            266          99.19           0.81
+Subj21               32767          32690             77          99.77           0.23
+Subj22               32767          32415            352          98.93           1.07
+Subj23               32767          32513            254          99.22           0.78
+Subj24               32767          32209            558          98.30           1.70
+Subj25               32767          32521            246          99.25           0.75
+Subj26               32767          32569            198          99.40           0.60
+Subj27               32767          32637            130          99.60           0.40
+Subj28               32767          31920            847          97.42           2.58
+Subj29               32767          32569            198          99.40           0.60
+Subj30               32767          31697           1070          96.73           3.27
+Subj31               32767          32646            121          99.63           0.37
+Subj32               32767          31877            890          97.28           2.72
+Subj33               32767          32477            290          99.11           0.89
+Subj34               32767          31135           1632          95.02           4.98
+Subj35               32767          32652            115          99.65           0.35
+Subj36               32767          32563            204          99.38           0.62
+Subj37               32767          32522            245          99.25           0.75
+Subj38               32767          32558            209          99.36           0.64
+Subj39               32767          31688           1079          96.71           3.29
+Subj40               32767          32551            216          99.34           0.66
+Subj41               32767          32086            681          97.92           2.08
+Subj42               32767          32282            485          98.52           1.48
+Subj43               32767          32192            575          98.25           1.75
+Subj44               32767          32379            388          98.82           1.18
+Subj45               32767          32619            148          99.55           0.45
+Subj46               32767          32740             27          99.92           0.08
+Subj47               32767          32546            221          99.33           0.67
+Subj48               32767          32465            302          99.08           0.92
+Subj49               32767          32588            179          99.45           0.55
+Subj50               32767          32565            202          99.38           0.62
+Subj51               32767          32460            307          99.06           0.94
+Subj52               32767          32600            167          99.49           0.51
+Subj53               32767          32651            116          99.65           0.35
+Subj54               32767          32508            259          99.21           0.79
+Subj55               32767          32364            403          98.77           1.23
+Subj56               32767          32327            440          98.66           1.34
+Subj57               32767          32566            201          99.39           0.61
+Subj58               32767          32494            273          99.17           0.83
+Subj59               32767          32095            672          97.95           2.05
+Subj60               32767          32619            148          99.55           0.45
+Subj61               32767          32574            193          99.41           0.59
+Subj62               32767          32337            430          98.69           1.31
+Subj63               32767          32616            151          99.54           0.46
+Subj64               32767          32718             49          99.85           0.15
+Subj65               32767          32472            295          99.10           0.90
+Subj66               32767          32621            146          99.55           0.45
+Subj67               32767          32436            331          98.99           1.01
+Subj68               32767          32420            347          98.94           1.06
+Subj69               32767          32271            496          98.49           1.51
+Subj70               32767          32334            433          98.68           1.32
+Subj71               32767          32395            372          98.86           1.14
+Subj72               32767          32141            626          98.09           1.91
+Subj73               32767          32517            250          99.24           0.76
+Subj74               32767          32205            562          98.28           1.72
+Subj75               32767          31827            940          97.13           2.87
+Subj76               32767          32615            152          99.54           0.46
+Subj77               32767          32065            702          97.86           2.14
+Subj78               32767          32424            343          98.95           1.05
+Subj79               32767          32418            349          98.93           1.07
+Subj80               32767          32352            415          98.73           1.27
+Subj81               32767          32700             67          99.80           0.20
+Subj82               32767          32535            232          99.29           0.71
+Subj83               32767          32514            253          99.23           0.77
+Subj84               32767          32616            151          99.54           0.46
+Subj85               32767          32607            160          99.51           0.49
+Subj86               32767          32526            241          99.26           0.74
+Subj87               32767          32233            534          98.37           1.63
+Subj88               32767          32551            216          99.34           0.66
+Subj89               32767          32285            482          98.53           1.47
+Subj90               32767          32588            179          99.45           0.55
+Subj91               32767          32443            324          99.01           0.99
+Subj92               32767          32341            426          98.70           1.30
+Subj93               32767          32510            257          99.22           0.78
+Subj94               32767          32374            393          98.80           1.20
+Subj95               32767          32447            320          99.02           0.98
+Subj96               32767          32465            302          99.08           0.92
+Subj97               32767          32427            340          98.96           1.04
+Subj98               32767          32518            249          99.24           0.76
+Subj99               32767          32474            293          99.11           0.89
+Subj100              32767          32640            127          99.61           0.39
+Subj101              32767          32503            264          99.19           0.81
+Subj102              32767          32501            266          99.19           0.81
+Subj103              32767          32498            269          99.18           0.82
+Subj104              32767          32582            185          99.44           0.56
+Subj105              32767          32044            723          97.79           2.21
+Subj106              32767          32549            218          99.33           0.67
+Subj107              32767          32568            199          99.39           0.61
+Subj108              32767          32007            760          97.68           2.32
+Subj109              32767          32577            190          99.42           0.58
+Subj110              32767          32608            159          99.51           0.49
+Subj111              32767          32480            287          99.12           0.88
+Subj112              32767          32516            251          99.23           0.77
+Subj113              32767          32481            286          99.13           0.87
+Subj114              32767          32186            581          98.23           1.77
+Subj115              32767          32579            188          99.43           0.57
+Subj116              32767          32603            164          99.50           0.50
+Subj117              32767          31458           1309          96.01           3.99
+Subj118              32767          32681             86          99.74           0.26
+Subj119              32767          32374            393          98.80           1.20
+Subj120              32767          32464            303          99.08           0.92
+Subj121              32767          32157            610          98.14           1.86
+Subj122              32767          32322            445          98.64           1.36
+Subj123              32767          32400            367          98.88           1.12
+Subj124              32767          31950            817          97.51           2.49
+Subj125              32767          32670             97          99.70           0.30
+Subj126              32767          32528            239          99.27           0.73
+Subj127              32767          32312            455          98.61           1.39
+Subj128              32767          32106            661          97.98           2.02
+Subj129              32767          32519            248          99.24           0.76
+Subj130              32767          32310            457          98.61           1.39
+Subj131              32767          32663            104          99.68           0.32
+Subj132              32767          32293            474          98.55           1.45
+Subj133              32767          32618            149          99.55           0.45
+Subj134              32767          32364            403          98.77           1.23
+Subj135              32767          32453            314          99.04           0.96
+Subj136              32767          31913            854          97.39           2.61
+Subj137              32767          32542            225          99.31           0.69
+Subj138              32767          31916            851          97.40           2.60
+Subj139              32767          32580            187          99.43           0.57
+Subj140              32767          32635            132          99.60           0.40
+Subj141              32767          32670             97          99.70           0.30
+Subj142              32767          31872            895          97.27           2.73
+Subj143              32767          32334            433          98.68           1.32
+Subj144              32767          32530            237          99.28           0.72
+Subj145              32767          32184            583          98.22           1.78
+Subj146              32767          32437            330          98.99           1.01
+Subj147              32767          32475            292          99.11           0.89
+Subj148              32767          32511            256          99.22           0.78
+Subj149              32767          32515            252          99.23           0.77
+Subj150              32767          28171           4596          85.97          14.03
+Subj151              32767          31154           1613          95.08           4.92
+Subj152              32767          32500            267          99.19           0.81
+Subj153              32767          31913            854          97.39           2.61
+Subj154              32767          32520            247          99.25           0.75
+Subj155              32767          32692             75          99.77           0.23
+Subj156              32767          32638            129          99.61           0.39
+Subj157              32767          32517            250          99.24           0.76
+Subj158              32767          32418            349          98.93           1.07
+Subj159              32767          32430            337          98.97           1.03
+Subj160              32767          32350            417          98.73           1.27
+Subj161              32767          32473            294          99.10           0.90
+Subj162              32767          31474           1293          96.05           3.95
+Subj163              32767          18472          14295          56.37          43.63
+Subj164              32767          30734           2033          93.80           6.20
+Subj165              32767          32481            286          99.13           0.87
+Subj166              32767          32645            122          99.63           0.37
+Subj167              32767          32210            557          98.30           1.70
+Subj168              32767          32575            192          99.41           0.59
+Subj169              32767          32328            439          98.66           1.34
+Subj170              32767          32322            445          98.64           1.36
+Subj171              32767          32387            380          98.84           1.16
+Subj172              32767          32580            187          99.43           0.57
+Subj173              32767          32545            222          99.32           0.68
+Subj174              32767          32445            322          99.02           0.98
+Subj175              32767          32174            593          98.19           1.81
+Subj176              32767          32411            356          98.91           1.09
+Subj177              32767          32549            218          99.33           0.67
+Subj178              32767          32574            193          99.41           0.59
+Subj179              32767          32502            265          99.19           0.81
+Subj180              32767          32250            517          98.42           1.58
+Subj181              32767          32335            432          98.68           1.32
+Subj182              32767          32368            399          98.78           1.22
+Subj183              32767          32385            382          98.83           1.17
+Subj184              32767          32539            228          99.30           0.70
+Subj185              32767          31388           1379          95.79           4.21
+Subj186              32767          32315            452          98.62           1.38
+Subj187              32767          32436            331          98.99           1.01
+Subj188              32767          32644            123          99.62           0.38
+Subj189              32767          32460            307          99.06           0.94
+Subj190              32767          32683             84          99.74           0.26
+Subj191              32767          32295            472          98.56           1.44
+Subj192              32767          32715             52          99.84           0.16
+Subj193              32767          32257            510          98.44           1.56
+Subj194              32767          32496            271          99.17           0.83
+Subj195              32767          32640            127          99.61           0.39
+Subj196              32767          32418            349          98.93           1.07
+Subj197              32767          32393            374          98.86           1.14
+Subj198              32767          32466            301          99.08           0.92
+Subj199              32767          32549            218          99.33           0.67
+Subj200              32767          32472            295          99.10           0.90
+Subj201              32767          32610            157          99.52           0.48
+All                6586167        6492595          93572          98.58           1.42
+
+

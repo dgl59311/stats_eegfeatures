@@ -1,0 +1,10 @@
+,betw cen e-icoh delta,betw cen e-wpli delta,kurtosis ampl beta,kurtosis ampl delta,life time gamma,node str e-plv delta,skewness ampl gamma,waiting time beta,waiting time gamma
+betw cen e-icoh delta_C6,1.0,0.64,0.073,0.295,0.325,0.027,0.005,0.312,0.044
+betw cen e-wpli delta_P4,0.64,1.0,0.436,0.565,0.181,0.209,0.434,0.68,0.254
+kurtosis ampl beta_CP6,0.073,0.436,1.0,0.067,0.0,0.136,0.0,0.0,0.0
+kurtosis ampl delta_F6,0.295,0.565,0.067,1.0,0.015,0.373,0.0,0.216,0.24
+life time gamma_C2,0.325,0.181,0.0,0.015,1.0,0.206,0.0,0.0,0.0
+node str e-plv delta_P3,0.027,0.209,0.136,0.373,0.206,1.0,0.007,0.003,0.197
+skewness ampl gamma_C1,0.005,0.434,0.0,0.0,0.0,0.007,1.0,0.0,0.0
+waiting time beta_C5,0.312,0.68,0.0,0.216,0.0,0.003,0.0,1.0,0.0
+waiting time gamma_P5,0.044,0.254,0.0,0.24,0.0,0.197,0.0,0.0,1.0

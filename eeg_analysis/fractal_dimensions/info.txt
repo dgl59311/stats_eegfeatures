@@ -1,0 +1,2 @@
+The functions Higuchi_FD() and Katz_FD() can be found at:
+www.mathworks.com/matlabcentral/fileexchange/50290-higuchi-and-katz-fractal-dimension-measures

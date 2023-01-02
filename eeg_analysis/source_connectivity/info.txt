@@ -1,0 +1,3 @@
+Create .asc files to use with Loreta software using text_preprocess_loreta.m
+
+Loreta software output for two participants are provided for reproducibility 

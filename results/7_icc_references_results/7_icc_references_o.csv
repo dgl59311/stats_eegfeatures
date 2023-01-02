@@ -1,0 +1,141 @@
+,25th,50th,75th
+ampl total power alpha,0.927,0.945,0.976
+ampl total power beta,0.938,0.975,0.987
+ampl total power delta,0.848,0.957,0.986
+ampl total power gamma,0.915,0.973,0.984
+ampl total power theta,0.884,0.921,0.969
+approx entropy,0.969,0.979,0.987
+betw cen e-icoh alpha,0.021,0.084,0.198
+betw cen e-icoh beta,0.003,0.092,0.156
+betw cen e-icoh delta,0.0,0.073,0.159
+betw cen e-icoh gamma,0.006,0.09,0.21
+betw cen e-icoh theta,0.027,0.067,0.195
+betw cen e-plv alpha,0.005,0.084,0.228
+betw cen e-plv beta,-0.019,0.063,0.105
+betw cen e-plv delta,0.013,0.102,0.153
+betw cen e-plv gamma,-0.037,-0.003,0.083
+betw cen e-plv theta,-0.002,0.094,0.17
+betw cen e-wpli alpha,0.032,0.119,0.251
+betw cen e-wpli beta,0.033,0.131,0.283
+betw cen e-wpli delta,0.035,0.107,0.227
+betw cen e-wpli gamma,0.087,0.13,0.176
+betw cen e-wpli theta,0.012,0.115,0.211
+clust coef e-icoh alpha,0.776,0.824,0.869
+clust coef e-icoh beta,0.659,0.707,0.739
+clust coef e-icoh delta,0.503,0.549,0.603
+clust coef e-icoh gamma,0.677,0.759,0.8
+clust coef e-icoh theta,0.726,0.755,0.789
+clust coef e-plv alpha,0.115,0.148,0.178
+clust coef e-plv beta,0.02,0.025,0.034
+clust coef e-plv delta,0.052,0.06,0.077
+clust coef e-plv gamma,0.016,0.025,0.037
+clust coef e-plv theta,0.036,0.043,0.051
+clust coef e-wpli alpha,0.667,0.729,0.818
+clust coef e-wpli beta,0.489,0.575,0.634
+clust coef e-wpli delta,0.598,0.645,0.708
+clust coef e-wpli gamma,0.72,0.812,0.9
+clust coef e-wpli theta,0.623,0.686,0.729
+correlation dimension,-0.052,0.026,0.082
+dfa exponent alpha,0.972,0.976,0.989
+dfa exponent beta,0.982,0.989,0.994
+dfa exponent delta,0.963,0.969,0.981
+dfa exponent gamma,0.977,0.983,0.989
+dfa exponent theta,0.972,0.982,0.988
+higuchi fractal dim,0.979,0.983,0.989
+hjorth activity,0.92,0.955,0.979
+hjorth complexity,0.979,0.986,0.99
+hjorth mobility,0.975,0.986,0.991
+katz fractal dim,0.938,0.974,0.986
+kurtosis ampl alpha,0.927,0.949,0.976
+kurtosis ampl beta,0.925,0.946,0.963
+kurtosis ampl delta,0.928,0.949,0.959
+kurtosis ampl gamma,0.902,0.939,0.971
+kurtosis ampl theta,0.942,0.95,0.967
+life time alpha,0.934,0.961,0.974
+life time beta,0.959,0.969,0.98
+life time delta,0.833,0.87,0.884
+life time gamma,0.936,0.951,0.973
+life time theta,0.955,0.967,0.975
+lyapunov exponent,0.935,0.951,0.963
+lzc exhaustive,0.973,0.981,0.986
+lzc primitive,0.974,0.982,0.986
+mean ampl alpha,0.927,0.945,0.976
+mean ampl beta,0.938,0.975,0.987
+mean ampl delta,0.848,0.957,0.986
+mean ampl gamma,0.915,0.973,0.984
+mean ampl theta,0.884,0.921,0.969
+microstate A,0.971,0.9775,0.979
+microstate B,0.97525,0.9824999999999999,0.98425
+microstate C,0.71975,0.7235,0.7395
+microstate D,0.42625,0.47750000000000004,0.5025
+microstate E,0.5257499999999999,0.566,0.5794999999999999
+mod index alpha-beta,0.796,0.829,0.883
+mod index alpha-gamma,0.728,0.784,0.83
+mod index beta-gamma,0.42,0.521,0.657
+mod index delta-alpha,0.881,0.908,0.929
+mod index delta-beta,0.803,0.841,0.871
+mod index delta-gamma,0.774,0.815,0.857
+mod index delta-theta,0.845,0.873,0.899
+mod index theta-alpha,0.955,0.962,0.973
+mod index theta-beta,0.901,0.915,0.933
+mod index theta-gamma,0.892,0.914,0.928
+node str e-icoh alpha,0.696,0.774,0.84
+node str e-icoh beta,0.589,0.651,0.725
+node str e-icoh delta,0.456,0.518,0.596
+node str e-icoh gamma,0.647,0.736,0.784
+node str e-icoh theta,0.66,0.707,0.751
+node str e-plv alpha,0.087,0.121,0.155
+node str e-plv beta,0.021,0.03,0.041
+node str e-plv delta,0.041,0.054,0.074
+node str e-plv gamma,0.011,0.024,0.046
+node str e-plv theta,0.031,0.04,0.051
+node str e-wpli alpha,0.628,0.737,0.812
+node str e-wpli beta,0.48,0.602,0.698
+node str e-wpli delta,0.515,0.585,0.658
+node str e-wpli gamma,0.68,0.751,0.899
+node str e-wpli theta,0.631,0.695,0.771
+permutation entropy,0.982,0.987,0.99
+range asymmetry alpha,0.857,0.878,0.933
+range asymmetry beta,0.785,0.819,0.861
+range asymmetry delta,0.827,0.85,0.889
+range asymmetry gamma,0.729,0.822,0.879
+range asymmetry theta,0.806,0.85,0.886
+range coef var alpha,0.962,0.97,0.985
+range coef var beta,0.971,0.98,0.984
+range coef var delta,0.972,0.978,0.984
+range coef var gamma,0.933,0.97,0.982
+range coef var theta,0.975,0.979,0.983
+relative ampl alpha,0.984,0.988,0.992
+relative ampl beta,0.978,0.985,0.99
+relative ampl delta,0.986,0.989,0.992
+relative ampl gamma,0.974,0.984,0.99
+relative ampl theta,0.966,0.979,0.985
+rqa determinism,0.973,0.983,0.987
+rqa entropy,0.946,0.966,0.975
+rqa laminarity,0.978,0.986,0.99
+rqa max diagonal,0.971,0.979,0.982
+rqa max vertical,0.945,0.954,0.964
+rqa mean diagonal,0.963,0.973,0.98
+rqa rte,0.958,0.967,0.972
+rqa trapping time,0.976,0.981,0.984
+sample entropy,0.974,0.981,0.985
+skewness ampl alpha,0.873,0.902,0.919
+skewness ampl beta,0.912,0.931,0.953
+skewness ampl delta,0.855,0.902,0.93
+skewness ampl gamma,0.934,0.949,0.965
+skewness ampl theta,0.917,0.941,0.961
+spectral entropy alpha,0.987,0.99,0.993
+spectral entropy beta,0.979,0.986,0.99
+spectral entropy delta,0.985,0.989,0.992
+spectral entropy gamma,0.976,0.986,0.99
+spectral entropy theta,0.974,0.981,0.987
+std ampl alpha,0.921,0.947,0.977
+std ampl beta,0.942,0.977,0.989
+std ampl delta,0.871,0.963,0.989
+std ampl gamma,0.918,0.975,0.983
+std ampl theta,0.902,0.935,0.973
+waiting time alpha,0.927,0.956,0.971
+waiting time beta,0.941,0.956,0.969
+waiting time delta,0.777,0.819,0.857
+waiting time gamma,0.917,0.94,0.959
+waiting time theta,0.947,0.96,0.973

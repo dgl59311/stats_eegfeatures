@@ -1,0 +1,5 @@
+,ampl total power gamma,mean ampl gamma,node str s-lps delta,std ampl gamma
+ampl total power gamma_Fp1,1.0,0.0,0.938,0.0
+mean ampl gamma_Fp1,0.0,1.0,0.938,0.0
+node str s-lps delta_LParahippocampalGyrus,0.938,0.938,1.0,0.139
+std ampl gamma_Fp2,0.0,0.0,0.139,1.0

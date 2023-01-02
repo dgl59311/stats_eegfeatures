@@ -1,0 +1,6 @@
+,betw cen e-wpli delta,betw cen s-lcoh gamma,betw cen s-lps theta,life time delta,microstate B
+betw cen e-wpli delta_T8,1.0,0.09,0.404,0.271,0.072
+betw cen s-lcoh gamma_RMedialOrbitofrontalCortex,0.09,1.0,0.897,0.938,0.248
+betw cen s-lps theta_LAngularGyrus,0.404,0.897,1.0,0.495,0.648
+life time delta_C5,0.271,0.938,0.495,1.0,0.001
+microstate B_Group1_Map2_SegDensity,0.072,0.248,0.648,0.001,1.0

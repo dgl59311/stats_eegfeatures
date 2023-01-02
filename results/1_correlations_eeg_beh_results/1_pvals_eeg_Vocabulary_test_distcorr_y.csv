@@ -1,0 +1,6 @@
+,betw cen e-plv theta,betw cen s-lcoh delta,betw cen s-lps delta,dfa exponent delta,skewness ampl alpha
+betw cen e-plv theta_F4,1.0,0.226,0.648,0.254,0.28
+betw cen s-lcoh delta_LMiddleOrbitofrontalCortex,0.226,1.0,0.0,0.581,0.608
+betw cen s-lps delta_LMiddleOrbitofrontalCortex,0.648,0.0,1.0,0.61,0.515
+dfa exponent delta_CP5,0.254,0.581,0.61,1.0,0.0
+skewness ampl alpha_POz,0.28,0.608,0.515,0.0,1.0

@@ -1,0 +1,14 @@
+,approx entropy,betw cen e-plv theta,clust coef e-plv beta,lzc primitive,mod index theta-alpha,mod index theta-beta,mod index theta-gamma,node str e-plv beta,relative ampl delta,skewness ampl theta,source ampl alpha,spectral entropy alpha,spectral entropy delta
+approx entropy_TP8,1.0,0.017,0.002,0.0,0.0,0.0,0.0,0.014,0.0,0.0,0.0,0.0,0.0
+betw cen e-plv theta_CPz,0.017,1.0,0.004,0.017,0.058,0.337,0.024,0.005,0.003,0.175,0.012,0.01,0.005
+clust coef e-plv beta_FT8,0.002,0.004,1.0,0.001,0.008,0.002,0.003,0.0,0.008,0.004,0.029,0.007,0.014
+lzc primitive_TP8,0.0,0.017,0.001,1.0,0.0,0.0,0.0,0.012,0.0,0.0,0.0,0.0,0.0
+mod index theta-alpha_C5,0.0,0.058,0.008,0.0,1.0,0.0,0.0,0.005,0.0,0.0,0.0,0.0,0.0
+mod index theta-beta_FC5,0.0,0.337,0.002,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mod index theta-gamma_P3,0.0,0.024,0.003,0.0,0.0,0.0,1.0,0.004,0.0,0.0,0.0,0.0,0.0
+node str e-plv beta_FT8,0.014,0.005,0.0,0.012,0.005,0.0,0.004,1.0,0.008,0.007,0.062,0.011,0.007
+relative ampl delta_P7,0.0,0.003,0.008,0.0,0.0,0.0,0.0,0.008,1.0,0.0,0.0,0.0,0.0
+skewness ampl theta_PO10,0.0,0.175,0.004,0.0,0.0,0.0,0.0,0.007,0.0,1.0,0.0,0.0,0.0
+source ampl alpha_RParahippocampalGyrus,0.0,0.012,0.029,0.0,0.0,0.0,0.0,0.062,0.0,0.0,1.0,0.0,0.0
+spectral entropy alpha_TP8,0.0,0.01,0.007,0.0,0.0,0.0,0.0,0.011,0.0,0.0,0.0,1.0,0.0
+spectral entropy delta_P7,0.0,0.005,0.014,0.0,0.0,0.0,0.0,0.007,0.0,0.0,0.0,0.0,1.0

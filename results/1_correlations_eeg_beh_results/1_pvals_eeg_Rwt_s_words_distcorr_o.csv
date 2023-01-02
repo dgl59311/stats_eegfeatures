@@ -1,0 +1,7 @@
+,betw cen s-lcoh gamma,clust coef e-plv theta,microstate A,microstate B,node str e-plv theta,skewness ampl gamma
+betw cen s-lcoh gamma_LInferiorOccipitalGyrus,1.0,0.147,0.413,0.95,0.272,0.065
+clust coef e-plv theta_C4,0.147,1.0,0.0,0.022,0.0,0.003
+microstate A_Group1_Map1_MeanDur,0.413,0.0,1.0,0.0,0.001,0.029
+microstate B_Group1_Map2_MeanDur,0.95,0.022,0.0,1.0,0.118,0.034
+node str e-plv theta_C4,0.272,0.0,0.001,0.118,1.0,0.006
+skewness ampl gamma_P8,0.065,0.003,0.029,0.034,0.006,1.0

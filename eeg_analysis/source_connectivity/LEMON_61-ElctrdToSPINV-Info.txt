@@ -1,0 +1,8 @@
+save fn: C:\Users\gordillo\Desktop\ml_eeg_analysis\source_connectivity\LEMON_61.spinv
+Standardized LORETA: FALSE
+Exact LORETA: TRUE
+FNElctrdCoord: C:\Users\gordillo\Desktop\ml_eeg_analysis\source_connectivity\LEMON_61.xyz
+NoReg: TRUE
+AutoReg: FALSE
+SnrReg: FALSE
+RelReg: FALSE

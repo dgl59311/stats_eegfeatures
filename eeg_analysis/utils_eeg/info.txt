@@ -1,0 +1,2 @@
+Add the function interpol() which can be found at:
+https://gist.github.com/disbeat/6c484ca61eafd64f071a8c80a36a9211

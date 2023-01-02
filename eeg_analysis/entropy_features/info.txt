@@ -1,0 +1,4 @@
+The function sampen() can be found at: 
+www.mathworks.com/matlabcentral/fileexchange/69381-sample-entropy
+The function PE() can be found at:
+www.mathworks.com/matlabcentral/fileexchange/44161-permutation-entropy--fast-algorithm-

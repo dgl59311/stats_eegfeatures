@@ -1,0 +1,1487 @@
+			Segmentation - Detailed
+			=======================
+
+			Cartool  3.80  (6164)
+			2022/10/24  19:55
+
+
+
+	Current Results:
+	----------------
+Number of Clusters:                     8
+Number of Maps / Templates:             8
+Global Explained Variance (GEV):        85.8714
+
+
+	Data Preprocessing:
+	-------------------
+Spatial Filter:                         No Spatial Filter
+
+
+	Epochs:
+	-------
+Time interval:                          Whole time interval
+Time resampling:                        No time resampling
+
+Using data:                             Whole input (no GFP peaks)
+
+Bad epochs:                             Not skipping bad epochs
+
+
+	Clustering Method:
+	------------------
+Min number of clusters:                 1
+Max number of clusters:                 15
+
+Files Preset:                           Resting States, Second Stage on Group(s), using whole dataset
+
+Clustering method:                      k-means
+Requested number of random trials:      200
+Labeling at low Correlations:           No
+No labeling if below Correlation:       50.00 [%]
+
+Data type:                              Signed Data
+Data Ranking:                           No
+Data reference:                         Average Reference
+Data Correlation reference:             Average Reference
+Data polarity:                          Ignore
+
+
+	Templates:
+	----------
+Templates computation:                  Mean Centroids of Clusters
+
+Templates type:                         Signed Data
+Templates Ranking:                      No
+Templates reference:                    Average Reference
+Templates polarity:                     Ignore
+
+
+	Temporal Postprocessing:
+	------------------------
+Sequentializing:                        No
+
+Merge correlated clusters:              No
+
+Smoothing:                              No
+
+Rejecting small segments:               No
+
+Reordering maps:                        No reordering
+
+
+	Alternative Templates:
+	----------------------
+Computing alternative set of templates: No alternative dataset
+
+
+	Input File(s):
+	--------------
+Number of input files:                  1
+
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010002.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010003.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010004.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010005.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010006.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010007.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010010.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010012.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010016.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010017.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010019.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010020.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010021.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010022.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010023.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010024.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010026.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010027.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010028.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010029.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010030.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010031.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010032.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010033.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010034.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010035.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010036.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010037.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010038.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010039.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010040.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010041.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010042.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010044.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010045.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010046.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010047.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010048.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010049.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010050.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010051.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010052.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010053.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010056.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010059.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010060.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010061.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010062.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010063.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010064.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010065.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010066.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010067.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010068.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010069.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010070.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010071.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010072.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010073.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010074.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010075.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010076.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010079.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010080.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010081.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010083.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010084.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010085.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010086.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010088.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010089.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010090.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010091.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010092.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010093.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010094.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010104.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010126.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010134.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010136.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010137.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010138.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010141.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010142.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010146.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010148.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010150.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010152.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010155.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010157.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010162.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010163.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010164.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010165.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010166.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010168.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010170.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010176.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010183.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010191.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010192.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010194.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010195.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010196.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010197.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010199.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010200.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010201.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010202.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010204.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010207.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010210.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010213.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010214.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010215.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010218.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010219.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010220.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010222.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010223.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010224.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010226.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010227.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010228.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010229.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010230.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010231.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010232.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010233.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010234.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010236.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010238.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010239.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010240.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010241.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010242.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010243.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010244.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010245.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010246.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010247.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010248.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010249.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010250.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010251.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010252.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010254.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010255.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010256.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010257.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010258.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010260.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010261.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010262.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010263.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010264.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010265.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010266.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010267.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010268.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010269.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010270.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010271.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010272.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010273.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010274.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010275.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010283.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010284.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010286.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010287.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010288.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010289.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010290.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010291.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010292.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010294.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010295.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010296.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010297.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010298.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010299.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010300.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010301.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010302.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010303.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010304.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010305.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010306.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010307.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010308.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010309.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010310.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010311.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010314.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010315.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010316.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010317.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010318.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010319.05.(05).ep
+Original File:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step1\microstates_preprocessing.m.BestClustering\microstates_preprocessing.m.010321.05.(05).ep
+
+Preprocessed File                       C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\PreprocData\GC microstates_preprocessing.m.Concat.tmre.sef
+
+
+	Output Files:
+	-------------
+Main verbose file (this):               C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\GC microstates_preprocessing.m.vrb
+Segmentation error file:                C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\GC microstates_preprocessing.m.error.data
+
+Detailed verbose file (this):           C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\GC microstates_preprocessing.m.08.(08).vrb
+Template file:                          C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\GC microstates_preprocessing.m.08.(08).ep
+Segmentation file:                      C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\GC microstates_preprocessing.m.08.(08).seg
+Data clusters files:                    C:\Users\gordillo\Desktop\ml_eeg_analysis\microstates\step2\GC microstates_preprocessing.m\Data Clusters\GC microstates_preprocessing.m.*.Cluster*sef
+
+Use common best clustering directory:   No
+
+
+	Processing Summary:
+	-------------------
+Data are processed following the sequence:
+
+    Repeated for each epoch, or done once on all time frames:
+
+    * Mathematical clustering       (always)
+    * Sequentialization             (optional)
+    * Merging correlated templates  (optional)
+    * Removing low correlations     (optional)
+    * Temporal smoothing            (optional)
+    * Rejection of small segments   (optional)
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Detailed Results:
+	-----------------
+
+
+
+	Correlation between all Templates of all files:
+	-----------------------------------------------
+(multiplied by 100; -100 = opposite, 100 = identical)
+
+Map               1       2       3       4       5       6       7       8
+__________|________________________________________________________________
+1               100      68      37       4      72      66      40      72
+2                68     100      36      71      83       2      70       5
+3                37      36     100      50      81      29      41      49
+4                 4      71      50     100      65      69      30      39
+5                72      83      81      65     100       4      20      42
+6                66       2      29      69       4     100      27      65
+7                40      70      41      30      20      27     100      31
+8                72       5      49      39      42      65      31     100
+
+
+	Correlations between all Clusters of all files:
+	-----------------------------------------------
+(multiplied by 100; -100 = opposite, 100 = identical)
+
+Cluster           1       2       3       4       5       6       7       8
+__________|________________________________________________________________
+1                88      62      34      20      66      58      37      65
+2                62      90      34      64      77      20      62      23
+3                34      34      86      45      73      29      34      44
+4                20      64      45      87      59      60      30      36
+5                66      77      73      59      92      21      25      39
+6                58      20      29      60      21      85      29      57
+7                37      62      34      30      25      29      84      30
+8                65      23      44      36      39      57      30      86
+
+
+
+	Clusters Spreading:
+	-------------------
+
+Map                      Seg1      Seg2      Seg3      Seg4      Seg5      Seg6      Seg7      Seg8
+__________________|________________________________________________________________________________
+Mean Dispersion         0.413     0.376     0.431     0.430     0.340     0.459     0.482     0.447
+
+
+
+	Sorted correlations between all Maps / Templates:
+	-------------------------------------------------
+
+      Map1      Map2      Corr
+______________________________
+         2         5     83.01
+         3         5     80.78
+         1         5     72.04
+         1         8     71.79
+         2         4     70.80
+         2         7     70.01
+         4         6     68.64
+         1         2     67.96
+         1         6     65.64
+         4         5     65.29
+         6         8     64.84
+         3         4     49.84
+         3         8     49.39
+         5         8     41.82
+         3         7     41.09
+         1         7     39.84
+         4         8     39.45
+         1         3     36.94
+         2         3     36.23
+         7         8     30.96
+         4         7     29.53
+         3         6     28.95
+         6         7     26.80
+         5         7     19.58
+         2         8      4.91
+         5         6      4.42
+         1         4      4.19
+         2         6      2.44
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Time per segment:
+	-----------------
+
+
+Time      Unlab.    Seg1    Seg2    Seg3    Seg4    Seg5    Seg6    Seg7    Seg8     All
+_______|________________________________________________________________________________
+Abs            2     144     136     119     162     187      78      87      90    1005
+%            0.2    14.3    13.5    11.8    16.1    18.6     7.8     8.7     9.0   100.0
+
+
+
+	Global Explained Variance per segment:
+	--------------------------------------
+
+
+GEV        Seg1    Seg2    Seg3    Seg4    Seg5    Seg6    Seg7    Seg8     All
+______|________________________________________________________________________
+Abs          12      12      10      14      17       6       7       8   85.87
+%          14.4    14.0    11.6    16.0    19.5     7.5     8.2     8.8   100.0
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Number of Maps per file:
+	------------------------
+
+
+File                                              Map1    Map2    Map3    Map4    Map5    Map6    Map7    Map8
+_____________________________________________|________________________________________________________________
+GC microstates_preprocessing.m.Concat.tmre         144     136     119     162     187      78      87      90
+
+Total Maps Count                                   144     136     119     162     187      78      87      90
+Total Maps %                                        14      14      12      16      19       8       9       9
+
+Total Files Count                                    1       1       1       1       1       1       1       1
+Total Files %                                      100     100     100     100     100     100     100     100
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Labeled vs Unlabeled TFs:
+	-------------------------
+
+Force minimum Correlation:              Yes
+Min Correlation allowed for Labeling:   50.00 [%]
+
+Total number of TFs      :              1005
+Number of     labeled TFs:              1003
+Number of non-labeled TFs:              2
+
+Percentage of     labeled TFs:          99.80 %
+Percentage of non-labeled TFs:          0.20 %
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+
+	Labeling:
+	---------
+(Corr multiplied by 100)
+
+     File#        TF      Map#      Sign      Corr       GFP
+____________________________________________________________
+         1         0         8        -1     93.52    0.1280
+         1         1         5        -1     99.07    0.1280
+         1         2         1        -1     90.21    0.1280
+         1         3         4        -1     90.06    0.1280
+         1         4         6        -1     91.61    0.1280
+         1         5         4         1     98.76    0.1280
+         1         6         3         1     91.00    0.1280
+         1         7         1         1     95.03    0.1280
+         1         8         2         1     95.21    0.1280
+         1         9         5         1     98.58    0.1280
+         1        10         3        -1     84.76    0.1280
+         1        11         5        -1     96.22    0.1280
+         1        12         4        -1     90.03    0.1280
+         1        13         6        -1     94.47    0.1280
+         1        14         4        -1     86.53    0.1280
+         1        15         3         1     93.43    0.1280
+         1        16         2         1     97.04    0.1280
+         1        17         7        -1     92.23    0.1280
+         1        18         8         1     91.23    0.1280
+         1        19         1         1     92.19    0.1280
+         1        20         2         1     93.14    0.1280
+         1        21         5         1     95.92    0.1280
+         1        22         4         1     88.78    0.1280
+         1        23         3         1     87.42    0.1280
+         1        24         1         1     96.40    0.1280
+         1        25         3        -1     90.23    0.1280
+         1        26         6        -1     91.24    0.1280
+         1        27         5        -1     94.84    0.1280
+         1        28         1        -1     94.24    0.1280
+         1        29         4        -1     99.15    0.1280
+         1        30         4         1     96.46    0.1280
+         1        31         7         1     83.63    0.1280
+         1        32         1        -1     96.33    0.1280
+         1        33         5        -1     96.86    0.1280
+         1        34         2        -1     98.95    0.1280
+         1        35         6         1     93.26    0.1280
+         1        36         4         1     91.12    0.1280
+         1        37         2         1     98.40    0.1280
+         1        38         1         1     93.90    0.1280
+         1        39         5         1     95.68    0.1280
+         1        40         7         1     93.96    0.1280
+         1        41         4        -1     98.00    0.1280
+         1        42         5        -1     96.34    0.1280
+         1        43         3        -1     96.90    0.1280
+         1        44         8        -1     93.32    0.1280
+         1        45         2         1     95.05    0.1280
+         1        46         5         1     99.63    0.1280
+         1        47         3         1     86.07    0.1280
+         1        48         6         1     87.72    0.1280
+         1        49         1        -1     98.08    0.1280
+         1        50         1        -1     91.84    0.1280
+         1        51         2        -1     90.00    0.1280
+         1        52         5        -1     98.95    0.1280
+         1        53         4        -1     92.38    0.1280
+         1        54         3         1     95.44    0.1280
+         1        55         1         1     90.77    0.1280
+         1        56         2         1     97.86    0.1280
+         1        57         4         1     91.49    0.1280
+         1        58         4         1     82.78    0.1280
+         1        59         6         1     94.17    0.1280
+         1        60         2        -1     95.29    0.1280
+         1        61         5        -1     88.13    0.1280
+         1        62         1        -1     86.72    0.1280
+         1        63         7         1     91.92    0.1280
+         1        64         6         1     87.35    0.1280
+         1        65         5        -1     97.21    0.1280
+         1        66         3        -1     90.11    0.1280
+         1        67         1        -1     91.91    0.1280
+         1        68         7         1     89.68    0.1280
+         1        69         4        -1     97.83    0.1280
+         1        70         2         1     94.40    0.1280
+         1        71         5         1     98.44    0.1280
+         1        72         4         1     96.66    0.1280
+         1        73         1        -1     93.58    0.1280
+         1        74         3        -1     86.38    0.1280
+         1        75         2         1     91.73    0.1280
+         1        76         6         1     86.52    0.1280
+         1        77         1        -1     94.19    0.1280
+         1        78         5        -1     94.99    0.1280
+         1        79         5        -1     94.77    0.1280
+         1        80         4        -1     82.04    0.1280
+         1        81         1         1     96.44    0.1280
+         1        82         3         1     93.20    0.1280
+         1        83         5         1     97.77    0.1280
+         1        84         4         1     89.87    0.1280
+         1        85         3         1     88.62    0.1280
+         1        86         2         1     93.55    0.1280
+         1        87         8        -1     83.03    0.1280
+         1        88         5        -1     96.88    0.1280
+         1        89         1        -1     92.01    0.1280
+         1        90         1         1     94.32    0.1280
+         1        91         4        -1     98.73    0.1280
+         1        92         3        -1     99.06    0.1280
+         1        93         5        -1     94.93    0.1280
+         1        94         7         1     98.91    0.1280
+         1        95         5         1     96.35    0.1280
+         1        96         4         1     86.52    0.1280
+         1        97         3         1     79.79    0.1280
+         1        98         2         1     92.08    0.1280
+         1        99         1         1     87.96    0.1280
+         1       100         2         1     97.35    0.1280
+         1       101         7        -1     96.35    0.1280
+         1       102         4         1     96.61    0.1280
+         1       103         5         1     94.86    0.1280
+         1       104         1         1     99.52    0.1280
+         1       105         8         1     94.27    0.1280
+         1       106         1         1     95.34    0.1280
+         1       107         2         1     86.06    0.1280
+         1       108         6         1     93.71    0.1280
+         1       109         5         1     97.03    0.1280
+         1       110         4        -1     96.95    0.1280
+         1       111         2        -1     99.20    0.1280
+         1       112         7         1     81.77    0.1280
+         1       113         1        -1     90.42    0.1280
+         1       114         5        -1     94.57    0.1280
+         1       115         6         1     96.18    0.1280
+         1       116         4         1     93.46    0.1280
+         1       117         8        -1     92.16    0.1280
+         1       118         5        -1     93.44    0.1280
+         1       119         1        -1     94.60    0.1280
+         1       120         7        -1     91.12    0.1280
+         1       121         3        -1     94.53    0.1280
+         1       122         5        -1     95.50    0.1280
+         1       123         4        -1     92.12    0.1280
+         1       124         1         1     99.02    0.1280
+         1       125         4        -1     86.66    0.1280
+         1       126         3        -1     93.66    0.1280
+         1       127         8        -1     85.46    0.1280
+         1       128         5        -1     94.35    0.1280
+         1       129         5        -1     85.43    0.1280
+         1       130         4         1     90.86    0.1280
+         1       131         5         1     96.54    0.1280
+         1       132         2         1     81.28    0.1280
+         1       133         3        -1     86.98    0.1280
+         1       134         6         1     88.44    0.1280
+         1       135         4         1     80.78    0.1280
+         1       136         2         1     94.84    0.1280
+         1       137         5         1     89.36    0.1280
+         1       138         6         1     97.53    0.1280
+         1       139         8        -1     83.75    0.1280
+         1       140         3         1     91.39    0.1280
+         1       141         7         1     87.60    0.1280
+         1       142         6        -1     93.98    0.1280
+         1       143         2        -1     89.28    0.1280
+         1       144         2        -1     90.81    0.1280
+         1       145         6         1     91.19    0.1280
+         1       146         8        -1     86.49    0.1280
+         1       147         2         1     92.51    0.1280
+         1       148         4         1     91.91    0.1280
+         1       149         1         1     86.66    0.1280
+         1       150         2         1     93.88    0.1280
+         1       151         2         1     93.90    0.1280
+         1       152         4         1     89.36    0.1280
+         1       153         1         1     85.25    0.1280
+         1       154         5         1     96.87    0.1280
+         1       155         4        -1     81.34    0.1280
+         1       156         2        -1     94.63    0.1280
+         1       157         4        -1     85.50    0.1280
+         1       158         6        -1     91.27    0.1280
+         1       159         8         1     86.19    0.1280
+         1       160         5         1     97.58    0.1280
+         1       161         6         1     91.75    0.1280
+         1       162         8        -1     94.35    0.1280
+         1       163         4         1     91.31    0.1280
+         1       164         1         1     92.81    0.1280
+         1       165         4        -1     96.72    0.1280
+         1       166         5        -1     91.64    0.1280
+         1       167         6         1     89.52    0.1280
+         1       168         2        -1     90.41    0.1280
+         1       169         7         1     86.14    0.1280
+         1       170         3        -1     96.73    0.1280
+         1       171         2        -1     97.93    0.1280
+         1       172         1        -1     96.65    0.1280
+         1       173         4         1     89.16    0.1280
+         1       174         7        -1     97.39    0.1280
+         1       175         4         1     89.66    0.1280
+         1       176         5         1     96.16    0.1280
+         1       177         2         1     92.86    0.1280
+         1       178         3        -1     89.75    0.1280
+         1       179         6         1     93.70    0.1280
+         1       180         8        -1     85.84    0.1280
+         1       181         6         1     89.58    0.1280
+         1       182         5        -1     93.74    0.1280
+         1       183         3        -1     92.62    0.1280
+         1       184         2        -1     96.56    0.1280
+         1       185         3         1     90.08    0.1280
+         1       186         1        -1     86.58    0.1280
+         1       187         8        -1     87.78    0.1280
+         1       188         4         1     84.16    0.1280
+         1       189         2         1     95.55    0.1280
+         1       190         8         1     90.44    0.1280
+         1       191         4        -1     96.41    0.1280
+         1       192         6        -1     82.83    0.1280
+         1       193         2         1     85.39    0.1280
+         1       194         5         1     93.00    0.1280
+         1       195         4         1     91.36    0.1280
+         1       196         2         1     95.69    0.1280
+         1       197         7        -1     90.17    0.1280
+         1       198         1         1     93.95    0.1280
+         1       199         3         1     95.95    0.1280
+         1       200         1         1     94.95    0.1280
+         1       201         4        -1     93.46    0.1280
+         1       202         3        -1     92.97    0.1280
+         1       203         5        -1     97.25    0.1280
+         1       204         2        -1     88.25    0.1280
+         1       205         5        -1     93.34    0.1280
+         1       206         6        -1     82.67    0.1280
+         1       207         2         1     90.01    0.1280
+         1       208         8         1     93.54    0.1280
+         1       209         7         1     84.62    0.1280
+         1       210         1        -1     90.46    0.1280
+         1       211         2        -1     97.57    0.1280
+         1       212         5        -1     95.53    0.1280
+         1       213         7        -1     92.79    0.1280
+         1       214         4         1     97.11    0.1280
+         1       215         2         1     93.19    0.1280
+         1       216         5         1     94.96    0.1280
+         1       217         3         1     86.76    0.1280
+         1       218         8        -1     91.50    0.1280
+         1       219         1        -1     89.82    0.1280
+         1       220         4        -1     93.29    0.1280
+         1       221         6        -1     89.94    0.1280
+         1       222         2        -1     94.35    0.1280
+         1       223         3        -1     84.00    0.1280
+         1       224         1        -1     93.28    0.1280
+         1       225         3         1     96.48    0.1280
+         1       226         5         1     96.50    0.1280
+         1       227         1         1     92.94    0.1280
+         1       228         4         1     93.80    0.1280
+         1       229         2         1     98.03    0.1280
+         1       230         8         1     89.95    0.1280
+         1       231         5         1     96.52    0.1280
+         1       232         2         1     92.83    0.1280
+         1       233         1         1     97.11    0.1280
+         1       234         6        -1     97.29    0.1280
+         1       235         4         1     90.69    0.1280
+         1       236         7        -1     89.84    0.1280
+         1       237         5         1     93.69    0.1280
+         1       238         3         1     95.70    0.1280
+         1       239         6        -1     91.85    0.1280
+         1       240         5         1     98.06    0.1280
+         1       241         1         1     96.87    0.1280
+         1       242         3         1     91.50    0.1280
+         1       243         5         1     91.95    0.1280
+         1       244         4         1     89.02    0.1280
+         1       245         5         1     97.07    0.1280
+         1       246         4         1     90.52    0.1280
+         1       247         7        -1     96.63    0.1280
+         1       248         3        -1     97.74    0.1280
+         1       249         1        -1     96.44    0.1280
+         1       250         3         1     91.07    0.1280
+         1       251         1         1     89.98    0.1280
+         1       252         5         1     93.33    0.1280
+         1       253         7        -1     93.23    0.1280
+         1       254         4         1     97.39    0.1280
+         1       255         2         1     96.00    0.1280
+         1       256         6        -1     82.60    0.1280
+         1       257         1         1     90.70    0.1280
+         1       258         4        -1     93.16    0.1280
+         1       259         3        -1     93.16    0.1280
+         1       260         4        -1     98.79    0.1280
+         1       261         5        -1     97.35    0.1280
+         1       262         2        -1     98.35    0.1280
+         1       263         7         1     88.17    0.1280
+         1       264         1        -1     95.76    0.1280
+         1       265         7         1     94.16    0.1280
+         1       266         5        -1     94.07    0.1280
+         1       267         4        -1     92.48    0.1280
+         1       268         1         1     94.24    0.1280
+         1       269         5         1     91.82    0.1280
+         1       270         1        -1     94.57    0.1280
+         1       271         7         1     93.85    0.1280
+         1       272         5         1     95.69    0.1280
+         1       273         4         1     97.48    0.1280
+         1       274         2         1     99.09    0.1280
+         1       275         5        -1     94.56    0.1280
+         1       276         7        -1     86.88    0.1280
+         1       277         6         1     93.00    0.1280
+         1       278         1        -1     98.97    0.1280
+         1       279         2        -1     97.12    0.1280
+         1       280         3         1     91.81    0.1280
+         1       281         1         1     94.15    0.1280
+         1       282         5         1     98.47    0.1280
+         1       283         6        -1     88.67    0.1280
+         1       284         4        -1     97.66    0.1280
+         1       285         5        -1     95.36    0.1280
+         1       286         5        -1     88.64    0.1280
+         1       287         2        -1     92.59    0.1280
+         1       288         6        -1     95.44    0.1280
+         1       289         3         1     82.63    0.1280
+         1       290         1        -1     92.26    0.1280
+         1       291         1        -1     76.42    0.1280
+         1       292         2        -1     95.21    0.1280
+         1       293         8         1     87.09    0.1280
+         1       294         3        -1     86.82    0.1280
+         1       295         3        -1     95.35    0.1280
+         1       296         5        -1     93.58    0.1280
+         1       297         8        -1     90.79    0.1280
+         1       298         7         1     93.99    0.1280
+         1       299         4         1     96.86    0.1280
+         1       300         3         1     89.70    0.1280
+         1       301         2         1     96.23    0.1280
+         1       302         8         1     90.72    0.1280
+         1       303         5         1     97.87    0.1280
+         1       304         4         1     87.72    0.1280
+         1       305         1         1     89.87    0.1280
+         1       306         8         1     92.39    0.1280
+         1       307         2        -1     95.88    0.1280
+         1       308         5        -1     97.59    0.1280
+         1       309         4        -1     89.24    0.1280
+         1       310         2        -1     91.74    0.1280
+         1       311         6        -1     89.99    0.1280
+         1       312         1         1     95.00    0.1280
+         1       313         3         1     91.39    0.1280
+         1       314         7         1     95.71    0.1280
+         1       315         1        -1     96.17    0.1280
+         1       316         7         1     89.69    0.1280
+         1       317         3         1     88.55    0.1280
+         1       318         5         1     96.57    0.1280
+         1       319         3         1     89.69    0.1280
+         1       320         2        -1     92.43    0.1280
+         1       321         4        -1     90.88    0.1280
+         1       322         6        -1     93.61    0.1280
+         1       323         4        -1     81.33    0.1280
+         1       324         8         1     85.95    0.1280
+         1       325         5         1     95.75    0.1280
+         1       326         1         1     97.71    0.1280
+         1       327         8         1     94.43    0.1280
+         1       328         4        -1     91.44    0.1280
+         1       329         6        -1     89.22    0.1280
+         1       330         3        -1     93.64    0.1280
+         1       331         4        -1     91.92    0.1280
+         1       332         5        -1     95.13    0.1280
+         1       333         7         1     95.41    0.1280
+         1       334         1        -1     91.13    0.1280
+         1       335         6        -1     96.92    0.1280
+         1       336         1         1     86.87    0.1280
+         1       337         5         1     88.89    0.1280
+         1       338         2         1     94.46    0.1280
+         1       339         4         1     76.49    0.1280
+         1       340         3        -1     84.12    0.1280
+         1       341         1        -1     81.86    0.1280
+         1       342         4         1     83.33    0.1280
+         1       343         5         1     92.38    0.1280
+         1       344         7        -1     76.27    0.1280
+         1       345         2        -1     93.98    0.1280
+         1       346         4        -1     93.55    0.1280
+         1       347         6        -1     87.98    0.1280
+         1       348         3         1     90.45    0.1280
+         1       349         4         1     80.67    0.1280
+         1       350         1         1     92.71    0.1280
+         1       351         7        -1     96.49    0.1280
+         1       352         2         1     97.49    0.1280
+         1       353         3         1     97.17    0.1280
+         1       354         4         1     97.18    0.1280
+         1       355         5         1     97.18    0.1280
+         1       356         8         1     96.22    0.1280
+         1       357         6        -1     92.22    0.1280
+         1       358         4        -1     90.13    0.1280
+         1       359         1        -1     96.31    0.1280
+         1       360         5        -1     97.24    0.1280
+         1       361         6         1     96.48    0.1280
+         1       362         1        -1     96.32    0.1280
+         1       363         3        -1     97.06    0.1280
+         1       364         4        -1     94.80    0.1280
+         1       365         8         1     96.09    0.1280
+         1       366         6        -1     92.40    0.1280
+         1       367         5        -1     94.39    0.1280
+         1       368         4        -1     84.82    0.1280
+         1       369         1        -1     90.95    0.1280
+         1       370         1         1     97.54    0.1280
+         1       371         5         1     92.96    0.1280
+         1       372         6         1     92.22    0.1280
+         1       373         7        -1     88.31    0.1280
+         1       374         3        -1     83.20    0.1280
+         1       375         7        -1     89.66    0.1280
+         1       376         1         1     97.42    0.1280
+         1       377         2         1     97.79    0.1280
+         1       378         4         1     93.99    0.1280
+         1       379         3         1     93.29    0.1280
+         1       380         2         1     86.40    0.1280
+         1       381         4         1     87.42    0.1280
+         1       382         6         1     87.46    0.1280
+         1       383         8        -1     93.44    0.1280
+         1       384         5        -1     97.79    0.1280
+         1       385         5         1     96.93    0.1280
+         1       386         4         1     91.20    0.1280
+         1       387         2         1     88.89    0.1280
+         1       388         6         1     87.51    0.1280
+         1       389         3        -1     97.02    0.1280
+         1       390         4        -1     97.42    0.1280
+         1       391         1         1     92.01    0.1280
+         1       392         3         1     97.20    0.1280
+         1       393         7         1     88.52    0.1280
+         1       394         5        -1     98.57    0.1280
+         1       395         1        -1     89.89    0.1280
+         1       396         3         1     90.92    0.1280
+         1       397         2         1     94.26    0.1280
+         1       398         8        -1     95.71    0.1280
+         1       399         5        -1     95.93    0.1280
+         1       400         2         1     95.70    0.1280
+         1       401         5         1     96.44    0.1280
+         1       402         7         1     78.38    0.1280
+         1       403         4         1     91.96    0.1280
+         1       404         1         1     95.65    0.1280
+         1       405         4         1     93.21    0.1280
+         1       406         1         1     89.49    0.1280
+         1       407         5         1     98.54    0.1280
+         1       408         6        -1     86.94    0.1280
+         1       409         7         1     90.57    0.1280
+         1       410         7         1     91.80    0.1280
+         1       411         1        -1     98.20    0.1280
+         1       412         6         1     93.91    0.1280
+         1       413         5         1     96.66    0.1280
+         1       414         3         1     93.46    0.1280
+         1       415         3        -1     96.02    0.1280
+         1       416         7        -1     93.40    0.1280
+         1       417         4         1     92.45    0.1280
+         1       418         5         1     93.88    0.1280
+         1       419         8         1     91.34    0.1280
+         1       420         7         1     89.85    0.1280
+         1       421         5         1     97.30    0.1280
+         1       422         1         1     92.94    0.1280
+         1       423         4        -1     98.72    0.1280
+         1       424         2        -1     97.27    0.1280
+         1       425         4        -1     92.40    0.1280
+         1       426         5        -1     91.66    0.1280
+         1       427         8        -1     91.85    0.1280
+         1       428         6         1     95.70    0.1280
+         1       429         3         1     97.20    0.1280
+         1       430         4        -1     97.13    0.1280
+         1       431         8         1     95.32    0.1280
+         1       432         6        -1     87.77    0.1280
+         1       433         2         1     94.26    0.1280
+         1       434         5         1     96.17    0.1280
+         1       435         4        -1     94.62    0.1280
+         1       436         2        -1     95.25    0.1280
+         1       437         8        -1     88.16    0.1280
+         1       438         5        -1     91.70    0.1280
+         1       439         5        -1     94.32    0.1280
+         1       440         7         1     96.29    0.1280
+         1       441         6         1     89.47    0.1280
+         1       442         5        -1     89.36    0.1280
+         1       443         3        -1     97.62    0.1280
+         1       444         4        -1     92.48    0.1280
+         1       445         1         1     94.15    0.1280
+         1       446         7        -1     92.56    0.1280
+         1       447         2         1     95.03    0.1280
+         1       448         3         1     96.42    0.1280
+         1       449         5         1     96.62    0.1280
+         1       450         1         1     96.96    0.1280
+         1       451         2         1     92.26    0.1280
+         1       452         8        -1     91.91    0.1280
+         1       453         6         1     88.89    0.1280
+         1       454         5         1     96.95    0.1280
+         1       455         5        -1     97.39    0.1280
+         1       456         8        -1     89.21    0.1280
+         1       457         2         1     90.87    0.1280
+         1       458         3        -1     91.72    0.1280
+         1       459         4        -1     92.41    0.1280
+         1       460         1         1     97.03    0.1280
+         1       461         4        -1     93.41    0.1280
+         1       462         5        -1     98.91    0.1280
+         1       463         3        -1     90.20    0.1280
+         1       464         2         1     92.77    0.1280
+         1       465         8         1     90.48    0.1280
+         1       466         5         1     95.88    0.1280
+         1       467         2         1     91.86    0.1280
+         1       468         4         1     91.57    0.1280
+         1       469         3         1     92.53    0.1280
+         1       470         3         1     93.26    0.1280
+         1       471         2        -1     86.84    0.1280
+         1       472         6         1     87.10    0.1280
+         1       473         5         1     93.43    0.1280
+         1       474         1         1     89.83    0.1280
+         1       475         8         1     94.42    0.1280
+         1       476         4        -1     95.49    0.1280
+         1       477         3        -1     96.91    0.1280
+         1       478         5        -1     93.08    0.1280
+         1       479         7         1     97.31    0.1280
+         1       480         1         1     91.47    0.1280
+         1       481         8         1     98.21    0.1280
+         1       482         4        -1     86.80    0.1280
+         1       483         2        -1     90.76    0.1280
+         1       484         5        -1     98.83    0.1280
+         1       485         4        -1     97.61    0.1280
+         1       486         6        -1     94.83    0.1280
+         1       487         7        -1     98.51    0.1280
+         1       488         2         1     94.97    0.1280
+         1       489         3         1     95.73    0.1280
+         1       490         8        -1     93.65    0.1280
+         1       491         2        -1     93.80    0.1280
+         1       492         4        -1     97.18    0.1280
+         1       493         7        -1     75.84    0.1280
+         1       494         5        -1     95.72    0.1280
+         1       495         5         1     98.01    0.1280
+         1       496         4         1     92.84    0.1280
+         1       497         3         1     94.91    0.1280
+         1       498         1         1     92.67    0.1280
+         1       499         2         1     91.05    0.1280
+         1       500         4         1     93.79    0.1280
+         1       501         1         1     90.35    0.1280
+         1       502         8         1     95.96    0.1280
+         1       503         5         1     95.82    0.1280
+         1       504         6         1     97.15    0.1280
+         1       505         8        -1     87.38    0.1280
+         1       506         2        -1     91.57    0.1280
+         1       507         2        -1     89.25    0.1280
+         1       508         5        -1     96.56    0.1280
+         1       509         3        -1     89.83    0.1280
+         1       510         2         1     99.23    0.1280
+         1       511         1         1     95.41    0.1280
+         1       512         5         1     91.70    0.1280
+         1       513         4         1     96.73    0.1280
+         1       514         7        -1     90.62    0.1280
+         1       515         2         1     98.73    0.1280
+         1       516         4         1     98.16    0.1280
+         1       517         1        -1     97.23    0.1280
+         1       518         3        -1     80.77    0.1280
+         1       519         5        -1     98.31    0.1280
+         1       520         8         1     91.01    0.1280
+         1       521         4        -1     97.13    0.1280
+         1       522         3        -1     94.36    0.1280
+         1       523         7        -1     91.88    0.1280
+         1       524         5         1     96.76    0.1280
+         1       525         5        -1     97.00    0.1280
+         1       526         4        -1     95.20    0.1280
+         1       527         1         1     93.06    0.1280
+         1       528         3         1     89.74    0.1280
+         1       529         2        -1     93.06    0.1280
+         1       530         5         1     97.54    0.1280
+         1       531         8         1     88.22    0.1280
+         1       532         4        -1     89.01    0.1280
+         1       533         2        -1     90.26    0.1280
+         1       534         3         1     87.35    0.1280
+         1       535         8         1     94.89    0.1280
+         1       536         5         1     91.79    0.1280
+         1       537         2         1     93.17    0.1280
+         1       538         6        -1     93.43    0.1280
+         1       539         4        -1     94.04    0.1280
+         1       540         5        -1     98.60    0.1280
+         1       541         8        -1     93.90    0.1280
+         1       542         4         1     98.15    0.1280
+         1       543         3         1     94.22    0.1280
+         1       544         7         1     91.50    0.1280
+         1       545         4        -1     97.38    0.1280
+         1       546         8         1     94.35    0.1280
+         1       547         5         1     94.06    0.1280
+         1       548         7        -1     89.91    0.1280
+         1       549         3        -1     95.67    0.1280
+         1       550         2         1     94.80    0.1280
+         1       551         8         1     95.65    0.1280
+         1       552         4        -1     93.29    0.1280
+         1       553         5        -1     92.84    0.1280
+         1       554         7        -1     90.51    0.1280
+         1       555         8         1     93.82    0.1280
+         1       556         5         1     91.74    0.1280
+         1       557         2         1     89.39    0.1280
+         1       558         5         1     94.24    0.1280
+         1       559         4         1     88.26    0.1280
+         1       560         5         1     98.60    0.1280
+         1       561         6        -1     91.97    0.1280
+         1       562         4        -1     95.85    0.1280
+         1       563         3        -1     85.97    0.1280
+         1       564         2         1     96.91    0.1280
+         1       565         7         1     97.96    0.1280
+         1       566         4        -1     98.16    0.1280
+         1       567         3        -1     96.42    0.1280
+         1       568         1        -1     95.28    0.1280
+         1       569         2        -1     96.99    0.1280
+         1       570         2        -1     96.31    0.1280
+         1       571         8         1     90.72    0.1280
+         1       572         7        -1     91.75    0.1280
+         1       573         1         1     92.35    0.1280
+         1       574         3         1     85.82    0.1280
+         1       575         7         1     95.31    0.1280
+         1       576         2        -1     97.59    0.1280
+         1       577         8         1     95.54    0.1280
+         1       578         1         1     94.03    0.1280
+         1       579         5         1     93.74    0.1280
+         1       580         5         1     92.93    0.1280
+         1       581         8         1     95.68    0.1280
+         1       582         2        -1     88.51    0.1280
+         1       583         1        -1     83.70    0.1280
+         1       584         4         1     79.39    0.1280
+         1       585         1        -1     89.95    0.1280
+         1       586         5        -1     97.31    0.1280
+         1       587         4        -1     92.88    0.1280
+         1       588         2        -1     93.87    0.1280
+         1       589         6         1     87.41    0.1280
+         1       590         7         1     92.17    0.1280
+         1       591         1        -1     90.36    0.1280
+         1       592         4        -1     96.86    0.1280
+         1       593         6        -1     91.90    0.1280
+         1       594         5        -1     98.51    0.1280
+         1       595         5         1     91.61    0.1280
+         1       596         4         1     81.96    0.1280
+         1       597         2         1     92.78    0.1280
+         1       598         1         1     79.13    0.1280
+         1       599         8         1     92.79    0.1280
+         1       600         4         1     94.77    0.1280
+         1       601         8        -1     94.63    0.1280
+         1       602         3        -1     94.08    0.1280
+         1       603         5        -1     94.15    0.1280
+         1       604         7         1     89.38    0.1280
+         1       605         3        -1     87.79    0.1280
+         1       606         4        -1     92.16    0.1280
+         1       607         2        -1     94.00    0.1280
+         1       608         8        -1     90.60    0.1280
+         1       609         5        -1     98.94    0.1280
+         1       610         7         1     88.30    0.1280
+         1       611         1         1     96.03    0.1280
+         1       612         2         1     98.97    0.1280
+         1       613         4         1     98.09    0.1280
+         1       614         5         1     96.86    0.1280
+         1       615         5         1     90.14    0.1280
+         1       616         2         1     89.83    0.1280
+         1       617         8        -1     86.88    0.1280
+         1       618         5        -1     88.30    0.1280
+         1       619         3        -1     90.16    0.1280
+         1       620         1         1     87.91    0.1280
+         1       621         2         1     94.39    0.1280
+         1       622         2         1     91.15    0.1280
+         1       623         5         1     96.45    0.1280
+         1       624         7         1     85.10    0.1280
+         1       625         7        -1     83.30    0.1280
+         1       626         2         1     98.38    0.1280
+         1       627         6         1     91.90    0.1280
+         1       628         5         1     95.84    0.1280
+         1       629         1         1     95.64    0.1280
+         1       630         2         1     96.76    0.1280
+         1       631         4         1     98.43    0.1280
+         1       632         7        -1     98.25    0.1280
+         1       633         1         1     88.95    0.1280
+         1       634         3         1     95.75    0.1280
+         1       635         7        -1     92.78    0.1280
+         1       636         2         1     98.20    0.1280
+         1       637         4         1     90.90    0.1280
+         1       638         5         1     94.96    0.1280
+         1       639         1         1     95.86    0.1280
+         1       640         4         1     95.94    0.1280
+         1       641         7        -1     96.65    0.1280
+         1       642         3        -1     93.87    0.1280
+         1       643         5        -1     96.83    0.1280
+         1       644         8        -1     88.47    0.1280
+         1       645         7        -1     82.53    0.1280
+         1       646         4        -1     95.32    0.1280
+         1       647         3        -1     97.95    0.1280
+         1       648         1        -1     92.03    0.1280
+         1       649         2        -1     95.50    0.1280
+         1       650         5        -1     95.71    0.1280
+         1       651         7         1     84.60    0.1280
+         1       652         4         1     87.20    0.1280
+         1       653         3         1     98.06    0.1280
+         1       654         1         1     91.53    0.1280
+         1       655         4        -1     90.83    0.1280
+         1       656         8         1     78.36    0.1280
+         1       657         3         1     95.16    0.1280
+         1       658         1         1     96.01    0.1280
+         1       659         5         1     93.43    0.1280
+         1       660         1         1     95.34    0.1280
+         1       661         4        -1     92.27    0.1280
+         1       662         7         1     91.76    0.1280
+         1       663         5        -1     97.02    0.1280
+         1       664         3        -1     96.00    0.1280
+         1       665         5         1     94.87    0.1280
+         1       666         2         1     93.47    0.1280
+         1       667         8        -1     94.78    0.1280
+         1       668         3        -1     92.45    0.1280
+         1       669         4        -1     92.12    0.1280
+         1       670         1         1     93.04    0.1280
+         1       671         5         1     92.82    0.1280
+         1       672         4         1     87.15    0.1280
+         1       673         8        -1     96.06    0.1280
+         1       674         6         1     97.83    0.1280
+         1       675         2        -1     95.24    0.1280
+         1       676         8         1     76.00    0.1280
+         1       677         5         1     88.73    0.1280
+         1       678         6        -1     88.05    0.1280
+         1       679         4        -1     88.01    0.1280
+         1       680         6         1     95.10    0.1280
+         1       681         7        -1     79.59    0.1280
+         1       682         8        -1     85.01    0.1280
+         1       683         4        -1     89.62    0.1280
+         1       684         1        -1     90.22    0.1280
+         1       685         8        -1     93.36    0.1280
+         1       686         6         1     93.63    0.1280
+         1       687         4         1     95.05    0.1280
+         1       688         2         1     94.07    0.1280
+         1       689         5         1     91.78    0.1280
+         1       690         3        -1     94.39    0.1280
+         1       691         5        -1     94.08    0.1280
+         1       692         1        -1     90.24    0.1280
+         1       693         7         1     95.48    0.1280
+         1       694         4        -1     97.69    0.1280
+         1       695         3         1     90.52    0.1280
+         1       696         7         1     89.38    0.1280
+         1       697         1        -1     86.50    0.1280
+         1       698         5        -1     96.67    0.1280
+         1       699         3        -1     90.50    0.1280
+         1       700         5        -1     99.35    0.1280
+         1       701         2        -1     94.08    0.1280
+         1       702         3        -1     95.87    0.1280
+         1       703         1        -1     98.89    0.1280
+         1       704         4         1     92.77    0.1280
+         1       705         4         1     91.15    0.1280
+         1       706         2         1     94.81    0.1280
+         1       707         1         1     96.76    0.1280
+         1       708         5         1     92.32    0.1280
+         1       709         8         1     89.59    0.1280
+         1       710         2         1     94.04    0.1280
+         1       711         1         1     96.79    0.1280
+         1       712         6        -1     86.13    0.1280
+         1       713         3         1     92.57    0.1280
+         1       714         4         1     91.94    0.1280
+         1       715         1        -1     95.55    0.1280
+         1       716         7         1     91.36    0.1280
+         1       717         4        -1     94.86    0.1280
+         1       718         2        -1     97.05    0.1280
+         1       719         5        -1     91.95    0.1280
+         1       720         7        -1     88.86    0.1280
+         1       721         3        -1     93.50    0.1280
+         1       722         5        -1     95.16    0.1280
+         1       723         1        -1     97.29    0.1280
+         1       724         6         1     89.58    0.1280
+         1       725         3         1     81.32    0.1280
+         1       726         5         1     93.57    0.1280
+         1       727         5         1     94.21    0.1280
+         1       728         1         1     96.90    0.1280
+         1       729         8         1     80.60    0.1280
+         1       730         5         1     98.30    0.1280
+         1       731         2         1     95.75    0.1280
+         1       732         7        -1     83.66    0.1280
+         1       733         1        -1     90.13    0.1280
+         1       734         4         1     99.39    0.1280
+         1       735         6        -1     92.60    0.1280
+         1       736         5        -1     96.72    0.1280
+         1       737         2        -1     89.81    0.1280
+         1       738         1        -1     94.97    0.1280
+         1       739         8        -1     96.33    0.1280
+         1       740         3         1     94.14    0.1280
+         1       741         4         1     94.56    0.1280
+         1       742         7        -1     84.23    0.1280
+         1       743         8         1     94.89    0.1280
+         1       744         2         1     94.34    0.1280
+         1       745         2        -1     92.18    0.1280
+         1       746         8        -1     88.20    0.1280
+         1       747         6         1     76.00    0.1280
+         1       748         7         1     90.22    0.1280
+         1       749         1        -1     89.35    0.1280
+         1       750         8         1     95.49    0.1280
+         1       751         6        -1     95.71    0.1280
+         1       752         2         1     90.64    0.1280
+         1       753         4         1     89.56    0.1280
+         1       754         5         1     88.19    0.1280
+         1       755         5        -1     96.49    0.1280
+         1       756         4        -1     96.23    0.1280
+         1       757         3        -1     94.87    0.1280
+         1       758         1        -1     89.83    0.1280
+         1       759         7         1     95.16    0.1280
+         1       760         2         1     90.63    0.1280
+         1       761         1         1     90.33    0.1280
+         1       762         5         1     93.53    0.1280
+         1       763         7         1     78.70    0.1280
+         1       764         4        -1     81.82    0.1280
+         1       765         4        -1     88.86    0.1280
+         1       766         3        -1     94.68    0.1280
+         1       767         5        -1     96.05    0.1280
+         1       768         1        -1     88.30    0.1280
+         1       769         5        -1     92.14    0.1280
+         1       770         2         1     96.34    0.1280
+         1       771         3         1     85.18    0.1280
+         1       772         5         1     97.26    0.1280
+         1       773         1         1     91.86    0.1280
+         1       774         4         1     89.38    0.1280
+         1       775         8        -1     97.57    0.1280
+         1       776         5        -1     97.13    0.1280
+         1       777         2        -1     96.49    0.1280
+         1       778         1        -1     93.74    0.1280
+         1       779         3         1     81.45    0.1280
+         1       780         3        -1     84.13    0.1280
+         1       781         8         1     93.91    0.1280
+         1       782         1         1     95.17    0.1280
+         1       783         5         1     94.96    0.1280
+         1       784         2         1     94.38    0.1280
+         1       785         5         1     88.15    0.1280
+         1       786         7         1     78.43    0.1280
+         1       787         1        -1     86.07    0.1280
+         1       788         3         1     88.33    0.1280
+         1       789         2         1     98.21    0.1280
+         1       790         5         1     95.88    0.1280
+         1       791         1         1     98.13    0.1280
+         1       792         4         1     96.83    0.1280
+         1       793         8        -1     92.88    0.1280
+         1       794         3        -1     93.81    0.1280
+         1       795         4        -1     97.63    0.1280
+         1       796         3        -1     94.90    0.1280
+         1       797         5        -1     95.08    0.1280
+         1       798         1        -1     94.96    0.1280
+         1       799         8        -1     94.20    0.1280
+         1       800         2         1     87.54    0.1280
+         1       801         8        -1     85.46    0.1280
+         1       802         6        -1     95.08    0.1280
+         1       803         1         1     95.61    0.1280
+         1       804         5         1     94.90    0.1280
+         1       805         6         1     98.10    0.1280
+         1       806         2         1     92.67    0.1280
+         1       807         7        -1     80.49    0.1280
+         1       808         3        -1     94.42    0.1280
+         1       809         1        -1     92.60    0.1280
+         1       810         5        -1     72.64    0.1280
+         1       811         0         1      0.00    0.1280
+         1       812         0         1      0.00    0.1280
+         1       813         5        -1     82.45    0.1280
+         1       814         5        -1     82.69    0.1280
+         1       815         1        -1     76.30    0.1280
+         1       816         4         1     92.63    0.1280
+         1       817         3         1     73.72    0.1280
+         1       818         5         1     68.42    0.1280
+         1       819         5         1     96.94    0.1280
+         1       820         1        -1     95.95    0.1280
+         1       821         4         1     88.44    0.1280
+         1       822         7        -1     96.32    0.1280
+         1       823         5         1     95.21    0.1280
+         1       824         3         1     95.75    0.1280
+         1       825         3         1     86.21    0.1280
+         1       826         5         1     99.58    0.1280
+         1       827         2         1     96.79    0.1280
+         1       828         1         1     96.57    0.1280
+         1       829         4        -1     95.18    0.1280
+         1       830         2        -1     89.62    0.1280
+         1       831         8         1     91.75    0.1280
+         1       832         5         1     97.86    0.1280
+         1       833         1         1     85.53    0.1280
+         1       834         4        -1     85.01    0.1280
+         1       835         2        -1     97.08    0.1280
+         1       836         8         1     89.45    0.1280
+         1       837         1         1     85.61    0.1280
+         1       838         3        -1     96.83    0.1280
+         1       839         5        -1     89.84    0.1280
+         1       840         6         1     86.37    0.1280
+         1       841         1        -1     90.25    0.1280
+         1       842         8        -1     98.28    0.1280
+         1       843         4         1     95.73    0.1280
+         1       844         3         1     95.49    0.1280
+         1       845         6         1     86.41    0.1280
+         1       846         8        -1     87.99    0.1280
+         1       847         5        -1     89.52    0.1280
+         1       848         5        -1     95.17    0.1280
+         1       849         2        -1     89.25    0.1280
+         1       850         3         1     97.64    0.1280
+         1       851         5         1     94.29    0.1280
+         1       852         7        -1     89.86    0.1280
+         1       853         4        -1     98.71    0.1280
+         1       854         8         1     97.42    0.1280
+         1       855         5         1     89.65    0.1280
+         1       856         4         1     87.18    0.1280
+         1       857         6         1     93.28    0.1280
+         1       858         2        -1     99.29    0.1280
+         1       859         8         1     84.34    0.1280
+         1       860         7        -1     86.17    0.1280
+         1       861         2         1     94.56    0.1280
+         1       862         5         1     96.39    0.1280
+         1       863         8         1     92.06    0.1280
+         1       864         4        -1     93.44    0.1280
+         1       865         1        -1     94.44    0.1280
+         1       866         8        -1     98.54    0.1280
+         1       867         5        -1     93.54    0.1280
+         1       868         6        -1     96.59    0.1280
+         1       869         4        -1     95.85    0.1280
+         1       870         1        -1     86.55    0.1280
+         1       871         8        -1     80.41    0.1280
+         1       872         2         1     96.38    0.1280
+         1       873         4         1     81.68    0.1280
+         1       874         5         1     86.53    0.1280
+         1       875         4        -1     90.33    0.1280
+         1       876         2        -1     90.54    0.1280
+         1       877         5        -1     98.65    0.1280
+         1       878         8        -1     97.59    0.1280
+         1       879         1        -1     95.68    0.1280
+         1       880         8        -1     93.87    0.1280
+         1       881         5        -1     96.89    0.1280
+         1       882         5        -1     96.23    0.1280
+         1       883         2        -1     92.69    0.1280
+         1       884         4        -1     86.35    0.1280
+         1       885         4         1     93.84    0.1280
+         1       886         8        -1     93.72    0.1280
+         1       887         5        -1     96.16    0.1280
+         1       888         7         1     90.95    0.1280
+         1       889         3         1     90.81    0.1280
+         1       890         2        -1     92.62    0.1280
+         1       891         4        -1     91.78    0.1280
+         1       892         8        -1     91.38    0.1280
+         1       893         6         1     91.74    0.1280
+         1       894         5         1     97.79    0.1280
+         1       895         2         1     98.79    0.1280
+         1       896         4         1     94.63    0.1280
+         1       897         5         1     98.25    0.1280
+         1       898         8         1     84.19    0.1280
+         1       899         1         1     98.01    0.1280
+         1       900         3         1     98.17    0.1280
+         1       901         4         1     97.76    0.1280
+         1       902         5         1     98.95    0.1280
+         1       903         7        -1     93.29    0.1280
+         1       904         8         1     94.46    0.1280
+         1       905         2         1     97.13    0.1280
+         1       906         7        -1     97.07    0.1280
+         1       907         3        -1     97.32    0.1280
+         1       908         1        -1     98.57    0.1280
+         1       909         4         1     89.03    0.1280
+         1       910         6        -1     92.85    0.1280
+         1       911         7        -1     89.17    0.1280
+         1       912         4        -1     96.60    0.1280
+         1       913         2        -1     95.45    0.1280
+         1       914         1        -1     98.76    0.1280
+         1       915         3         1     88.83    0.1280
+         1       916         2         1     92.71    0.1280
+         1       917         5         1     96.17    0.1280
+         1       918         1         1     89.74    0.1280
+         1       919         5         1     89.25    0.1280
+         1       920         5         1     98.30    0.1280
+         1       921         3         1     51.32    0.1280
+         1       922         2        -1     92.87    0.1280
+         1       923         1        -1     98.39    0.1280
+         1       924         6         1     84.38    0.1280
+         1       925         7         1     80.00    0.1280
+         1       926         4         1     84.39    0.1280
+         1       927         2         1     98.37    0.1280
+         1       928         1         1     90.45    0.1280
+         1       929         3         1     90.32    0.1280
+         1       930         1        -1     88.52    0.1280
+         1       931         5        -1     98.03    0.1280
+         1       932         1        -1     81.19    0.1280
+         1       933         4        -1     88.79    0.1280
+         1       934         3        -1     96.96    0.1280
+         1       935         7        -1     91.38    0.1280
+         1       936         3        -1     95.42    0.1280
+         1       937         8        -1     87.60    0.1280
+         1       938         1        -1     91.76    0.1280
+         1       939         2        -1     94.41    0.1280
+         1       940         3        -1     87.36    0.1280
+         1       941         1        -1     92.01    0.1280
+         1       942         6         1     82.57    0.1280
+         1       943         5         1     92.34    0.1280
+         1       944         7        -1     87.99    0.1280
+         1       945         5        -1     95.31    0.1280
+         1       946         6         1     95.36    0.1280
+         1       947         4         1     84.21    0.1280
+         1       948         3        -1     87.68    0.1280
+         1       949         4        -1     88.20    0.1280
+         1       950         1        -1     94.13    0.1280
+         1       951         5        -1     91.14    0.1280
+         1       952         7         1     92.42    0.1280
+         1       953         3         1     94.50    0.1280
+         1       954         6         1     92.96    0.1280
+         1       955         1        -1     98.34    0.1280
+         1       956         4        -1     96.47    0.1280
+         1       957         5        -1     99.34    0.1280
+         1       958         2        -1     97.41    0.1280
+         1       959         3        -1     96.39    0.1280
+         1       960         4         1     86.76    0.1280
+         1       961         1        -1     89.36    0.1280
+         1       962         3        -1     88.57    0.1280
+         1       963         1         1     85.51    0.1280
+         1       964         2         1     95.81    0.1280
+         1       965         2        -1     93.17    0.1280
+         1       966         8        -1     98.61    0.1280
+         1       967         4         1     97.59    0.1280
+         1       968         5         1     95.06    0.1280
+         1       969         6         1     90.14    0.1280
+         1       970         5         1     97.06    0.1280
+         1       971         6         1     91.61    0.1280
+         1       972         2         1     90.20    0.1280
+         1       973         4         1     93.49    0.1280
+         1       974         1         1     93.62    0.1280
+         1       975         5        -1     95.04    0.1280
+         1       976         1        -1     93.81    0.1280
+         1       977         4        -1     95.72    0.1280
+         1       978         8         1     96.94    0.1280
+         1       979         6        -1     99.23    0.1280
+         1       980         8         1     95.96    0.1280
+         1       981         4        -1     94.93    0.1280
+         1       982         5        -1     98.31    0.1280
+         1       983         7         1     90.02    0.1280
+         1       984         3         1     97.19    0.1280
+         1       985         1        -1     92.18    0.1280
+         1       986         5        -1     96.69    0.1280
+         1       987         7         1     92.78    0.1280
+         1       988         4        -1     93.72    0.1280
+         1       989         5        -1     93.43    0.1280
+         1       990         7        -1     83.77    0.1280
+         1       991         4         1     88.61    0.1280
+         1       992         1        -1     94.12    0.1280
+         1       993         2        -1     96.61    0.1280
+         1       994         5        -1     97.55    0.1280
+         1       995         1         1     97.44    0.1280
+         1       996         5         1     96.15    0.1280
+         1       997         2         1     96.32    0.1280
+         1       998         4         1     92.09    0.1280
+         1       999         6         1     77.24    0.1280
+         1      1000         7        -1     92.42    0.1280
+         1      1001         5         1     95.80    0.1280
+         1      1002         5         1     94.62    0.1280
+         1      1003         1         1     91.04    0.1280
+         1      1004         4        -1     94.54    0.1280
+

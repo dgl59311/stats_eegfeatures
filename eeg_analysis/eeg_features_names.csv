@@ -1,0 +1,176 @@
+﻿mat,csv
+2_Microstate_A,microstate A
+2_Microstate_B,microstate B
+2_Microstate_C,microstate C
+2_Microstate_D,microstate D
+2_Microstate_E,microstate E
+Alpha,relative ampl alpha
+amp_env_meanAlpha,mean ampl alpha
+amp_env_meanBeta,mean ampl beta
+amp_env_meanDelta,mean ampl delta
+amp_env_meanGamma,mean ampl gamma
+amp_env_meanTheta,mean ampl theta
+amp_env_stdAlpha,std ampl alpha
+amp_env_stdBeta,std ampl beta
+amp_env_stdDelta,std ampl delta
+amp_env_stdGamma,std ampl gamma
+amp_env_stdTheta,std ampl theta
+amp_kurtAlpha,kurtosis ampl alpha
+amp_kurtBeta,kurtosis ampl beta
+amp_kurtDelta,kurtosis ampl delta
+amp_kurtGamma,kurtosis ampl gamma
+amp_kurtTheta,kurtosis ampl theta
+amp_skewAlpha,skewness ampl alpha
+amp_skewBeta,skewness ampl beta
+amp_skewDelta,skewness ampl delta
+amp_skewGamma,skewness ampl gamma
+amp_skewTheta,skewness ampl theta
+amp_total_powAlpha,ampl total power alpha
+amp_total_powBeta,ampl total power beta
+amp_total_powDelta,ampl total power delta
+amp_total_powGamma,ampl total power gamma
+amp_total_powTheta,ampl total power theta
+approximate_entropy,approx entropy
+Beta,relative ampl beta
+correlation_dimension,correlation dimension
+Delta,relative ampl delta
+dfaexponent_alpha,dfa exponent alpha
+dfaexponent_beta,dfa exponent beta
+dfaexponent_delta,dfa exponent delta
+dfaexponent_gamma,dfa exponent gamma
+dfaexponent_theta,dfa exponent theta
+fractal_dimension_higuchi,higuchi fractal dim
+fractal_dimension_katz,katz fractal dim
+Gamma,relative ampl gamma
+hjorth_activity,hjorth activity
+hjorth_complexity,hjorth complexity
+hjorth_mobility,hjorth mobility
+ICOHalpha_betweennesscentrality,betw cen e-icoh alpha
+ICOHalpha_clusteringcoefficient,clust coef e-icoh alpha
+ICOHalpha_nodestrength,node str e-icoh alpha
+ICOHbeta_betweennesscentrality,betw cen e-icoh beta
+ICOHbeta_clusteringcoefficient,clust coef e-icoh beta
+ICOHbeta_nodestrength,node str e-icoh beta
+ICOHdelta_betweennesscentrality,betw cen e-icoh delta
+ICOHdelta_clusteringcoefficient,clust coef e-icoh delta
+ICOHdelta_nodestrength,node str e-icoh delta
+ICOHgamma_betweennesscentrality,betw cen e-icoh gamma
+ICOHgamma_clusteringcoefficient,clust coef e-icoh gamma
+ICOHgamma_nodestrength,node str e-icoh gamma
+ICOHtheta_betweennesscentrality,betw cen e-icoh theta
+ICOHtheta_clusteringcoefficient,clust coef e-icoh theta
+ICOHtheta_nodestrength,node str e-icoh theta
+LCOHalpha_betwcentr,betw cen s-lcoh alpha
+LCOHalpha_clusteringcoefficient,clust coef s-lcoh alpha
+LCOHalpha_nodestrength,node str s-lcoh alpha
+LCOHbeta_betwcentr,betw cen s-lcoh beta
+LCOHbeta_clusteringcoefficient,clust coef s-lcoh beta
+LCOHbeta_nodestrength,node str s-lcoh beta
+LCOHdelta_betwcentr,betw cen s-lcoh delta
+LCOHdelta_clusteringcoefficient,clust coef s-lcoh delta
+LCOHdelta_nodestrength,node str s-lcoh delta
+LCOHgamma_betwcentr,betw cen s-lcoh gamma
+LCOHgamma_clusteringcoefficient,clust coef s-lcoh gamma
+LCOHgamma_nodestrength,node str s-lcoh gamma
+LCOHtheta_betwcentr,betw cen s-lcoh theta
+LCOHtheta_clusteringcoefficient,clust coef s-lcoh theta
+LCOHtheta_nodestrength,node str s-lcoh theta
+lifetime_alpha,life time alpha
+lifetime_beta,life time beta
+lifetime_delta,life time delta
+lifetime_gamma,life time gamma
+lifetime_theta,life time theta
+LPSalpha_betwcentr,betw cen s-lps alpha
+LPSalpha_clusteringcoefficient,clust coef s-lps alpha
+LPSalpha_nodestrength,node str s-lps alpha
+LPSbeta_betwcentr,betw cen s-lps beta
+LPSbeta_clusteringcoefficient,clust coef s-lps beta
+LPSbeta_nodestrength,node str s-lps beta
+LPSdelta_betwcentr,betw cen s-lps delta
+LPSdelta_clusteringcoefficient,clust coef s-lps delta
+LPSdelta_nodestrength,node str s-lps delta
+LPSgamma_betwcentr,betw cen s-lps gamma
+LPSgamma_clusteringcoefficient,clust coef s-lps gamma
+LPSgamma_nodestrength,node str s-lps gamma
+LPStheta_betwcentr,betw cen s-lps theta
+LPStheta_clusteringcoefficient,clust coef s-lps theta
+LPStheta_nodestrength,node str s-lps theta
+lyapunov_exponent,lyapunov exponent
+LZC_exhaustive,lzc exhaustive
+LZC_primitive,lzc primitive
+modindex_alpha_beta,mod index alpha-beta
+modindex_alpha_gamma,mod index alpha-gamma
+modindex_beta_gamma,mod index beta-gamma
+modindex_delta_alpha,mod index delta-alpha
+modindex_delta_theta,mod index delta-theta
+modindex_delta_beta,mod index delta-beta
+modindex_delta_gamma,mod index delta-gamma
+modindex_theta_alpha,mod index theta-alpha
+modindex_theta_beta,mod index theta-beta
+modindex_theta_gamma,mod index theta-gamma
+permutation_entropy,permutation entropy
+PLValpha_betweennesscentrality,betw cen e-plv alpha
+PLValpha_clusteringcoefficient,clust coef e-plv alpha
+PLValpha_nodestrength,node str e-plv alpha
+PLVbeta_betweennesscentrality,betw cen e-plv beta
+PLVbeta_clusteringcoefficient,clust coef e-plv beta
+PLVbeta_nodestrength,node str e-plv beta
+PLVdelta_betweennesscentrality,betw cen e-plv delta
+PLVdelta_clusteringcoefficient,clust coef e-plv delta
+PLVdelta_nodestrength,node str e-plv delta
+PLVgamma_betweennesscentrality,betw cen e-plv gamma
+PLVgamma_clusteringcoefficient,clust coef e-plv gamma
+PLVgamma_nodestrength,node str e-plv gamma
+PLVtheta_betweennesscentrality,betw cen e-plv theta
+PLVtheta_clusteringcoefficient,clust coef e-plv theta
+PLVtheta_nodestrength,node str e-plv theta
+rEEG_asymmetry_Alpha,range asymmetry alpha
+rEEG_asymmetry_Beta,range asymmetry beta
+rEEG_asymmetry_Delta,range asymmetry delta
+rEEG_asymmetry_Gamma,range asymmetry gamma
+rEEG_asymmetry_Theta,range asymmetry theta
+rEEG_CV_Alpha,range coef var alpha
+rEEG_CV_Beta,range coef var beta
+rEEG_CV_Delta,range coef var delta
+rEEG_CV_Gamma,range coef var gamma
+rEEG_CV_Theta,range coef var theta
+RQA_determinism,rqa determinism
+RQA_entropy,rqa entropy
+RQA_laminarity,rqa laminarity
+RQA_max_diag,rqa max diagonal
+RQA_max_vert,rqa max vertical
+RQA_mean_diag,rqa mean diagonal
+RQA_rte,rqa rte
+RQA_trappingtime,rqa trapping time
+sample_entropy,sample entropy
+SE_Alpha,spectral entropy alpha
+SE_Beta,spectral entropy beta
+SE_Delta,spectral entropy delta
+SE_Gamma,spectral entropy gamma
+SE_Theta,spectral entropy theta
+slor_alpha,source ampl alpha
+slor_beta,source ampl beta
+slor_delta,source ampl delta
+slor_gamma,source ampl gamma
+slor_theta,source ampl theta
+Theta,relative ampl theta
+waitingtime_alpha,waiting time alpha
+waitingtime_beta,waiting time beta
+waitingtime_delta,waiting time delta
+waitingtime_gamma,waiting time gamma
+waitingtime_theta,waiting time theta
+WPLIalpha_betweennesscentrality,betw cen e-wpli alpha
+WPLIalpha_clusteringcoefficient,clust coef e-wpli alpha
+WPLIalpha_nodestrength,node str e-wpli alpha
+WPLIbeta_betweennesscentrality,betw cen e-wpli beta
+WPLIbeta_clusteringcoefficient,clust coef e-wpli beta
+WPLIbeta_nodestrength,node str e-wpli beta
+WPLIdelta_betweennesscentrality,betw cen e-wpli delta
+WPLIdelta_clusteringcoefficient,clust coef e-wpli delta
+WPLIdelta_nodestrength,node str e-wpli delta
+WPLIgamma_betweennesscentrality,betw cen e-wpli gamma
+WPLIgamma_clusteringcoefficient,clust coef e-wpli gamma
+WPLIgamma_nodestrength,node str e-wpli gamma
+WPLItheta_betweennesscentrality,betw cen e-wpli theta
+WPLItheta_clusteringcoefficient,clust coef e-wpli theta
+WPLItheta_nodestrength,node str e-wpli theta

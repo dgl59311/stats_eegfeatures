@@ -1,0 +1,4 @@
+add utils_eeg to matlab path
+run each analysis from each corresponding folder
+Demographical data can be found following the links provided at: 
+https://www.nature.com/articles/sdata2018308

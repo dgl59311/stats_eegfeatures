@@ -1,0 +1,10 @@
+,ampl total power beta,ampl total power gamma,clust coef s-lcoh gamma,mean ampl beta,mean ampl gamma,mod index delta-gamma,node str s-lcoh gamma,std ampl beta,std ampl gamma
+ampl total power beta_P2,1.0,0.0,0.061,0.0,0.0,0.048,0.001,0.0,0.0
+ampl total power gamma_C4,0.0,1.0,0.0,0.0,0.0,0.204,0.0,0.0,0.0
+clust coef s-lcoh gamma_RSuperiorOccipitalGyrus,0.061,0.0,1.0,0.066,0.001,0.97,0.0,0.048,0.0
+mean ampl beta_P2,0.0,0.0,0.066,1.0,0.0,0.048,0.001,0.0,0.0
+mean ampl gamma_C4,0.0,0.0,0.001,0.0,1.0,0.204,0.0,0.0,0.0
+mod index delta-gamma_PO7,0.048,0.204,0.97,0.048,0.204,1.0,0.791,0.031,0.175
+node str s-lcoh gamma_LSupplementaryMotorArea,0.001,0.0,0.0,0.001,0.0,0.791,1.0,0.0,0.0
+std ampl beta_P2,0.0,0.0,0.048,0.0,0.0,0.031,0.0,1.0,0.0
+std ampl gamma_C4,0.0,0.0,0.0,0.0,0.0,0.175,0.0,0.0,1.0

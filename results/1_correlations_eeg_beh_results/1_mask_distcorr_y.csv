@@ -1,0 +1,176 @@
+,Cvlt_attention_span,Cvlt_delayed_memory,Pts-2_subtest_3,Rwt_animal_categories,Rwt_s_words,Tap_alertness,Tap_simon_congruent,Tap_simon_incongruent,Tap_working_memory,Tmt-A,Tmt-B,Vocabulary_test
+ampl total power alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+ampl total power beta,F8,NS,NS,NS,P2,NS,NS,NS,NS,NS,NS,NS
+ampl total power delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+ampl total power gamma,PO7,NS,NS,NS,C4,NS,NS,NS,NS,NS,NS,NS
+ampl total power theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+approx entropy,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-icoh alpha,NS,CP2,NS,NS,NS,AFz,NS,NS,NS,NS,NS,NS
+betw cen e-icoh beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-icoh delta,NS,NS,NS,NS,NS,P2,POz,NS,C6,NS,NS,NS
+betw cen e-icoh gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-icoh theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-plv alpha,NS,NS,NS,F6,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-plv beta,NS,F6,NS,F4,NS,NS,NS,T7,NS,NS,C3,NS
+betw cen e-plv delta,NS,Fp1,NS,NS,NS,NS,C3,NS,NS,NS,NS,NS
+betw cen e-plv gamma,NS,NS,Fz,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-plv theta,NS,NS,NS,Pz,NS,NS,NS,NS,NS,NS,NS,F4
+betw cen e-wpli alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-wpli beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen e-wpli delta,Fp1,NS,NS,NS,NS,NS,NS,NS,P4,NS,NS,NS
+betw cen e-wpli gamma,NS,NS,NS,NS,NS,NS,P7,NS,NS,C5,NS,NS
+betw cen e-wpli theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lcoh alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,RCalcarineSulcus,NS
+betw cen s-lcoh beta,NS,NS,ROlfactoryGyrus,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lcoh delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,LMiddleOrbitofrontalCortex
+betw cen s-lcoh gamma,NS,NS,RInferiorFrontalGyrusOrbitalPart,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lcoh theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lps alpha,NS,NS,NS,NS,NS,NS,LInferiorTemporalGyrus,NS,NS,NS,NS,NS
+betw cen s-lps beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lps delta,NS,RMiddleOrbitofrontalCortex,NS,NS,NS,NS,NS,NS,NS,NS,NS,LMiddleOrbitofrontalCortex
+betw cen s-lps gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+betw cen s-lps theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-icoh alpha,NS,NS,NS,T8,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-icoh beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-icoh delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-icoh gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-icoh theta,NS,NS,NS,NS,NS,NS,O1,O1,NS,NS,O1,NS
+clust coef e-plv alpha,NS,NS,NS,NS,NS,NS,AF8,Fp2,NS,NS,NS,NS
+clust coef e-plv beta,NS,NS,NS,NS,NS,NS,NS,Fp2,NS,NS,F5,NS
+clust coef e-plv delta,NS,NS,NS,NS,NS,NS,F2,F1,NS,NS,F2,NS
+clust coef e-plv gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-plv theta,NS,NS,NS,NS,NS,NS,Fp1,Fp2,NS,NS,F2,NS
+clust coef e-wpli alpha,NS,NS,NS,CP4,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-wpli beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-wpli delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-wpli gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef e-wpli theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,TP7,NS
+clust coef s-lcoh alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,LInsula,NS,NS
+clust coef s-lcoh beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lcoh delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lcoh gamma,NS,NS,NS,NS,RSuperiorOccipitalGyrus,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lcoh theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,LFusiformGyrus,NS
+clust coef s-lps alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lps beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lps delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lps gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+clust coef s-lps theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+correlation dimension,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+dfa exponent alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+dfa exponent beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+dfa exponent delta,NS,NS,NS,FT8,NS,NS,NS,NS,NS,NS,NS,CP5
+dfa exponent gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+dfa exponent theta,NS,NS,NS,NS,NS,NS,CP1,NS,NS,NS,NS,NS
+higuchi fractal dim,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+hjorth activity,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+hjorth complexity,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+hjorth mobility,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+katz fractal dim,FT8,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+kurtosis ampl alpha,NS,NS,NS,NS,NS,NS,F1,NS,NS,NS,NS,NS
+kurtosis ampl beta,NS,NS,NS,NS,NS,NS,NS,NS,CP6,CP6,NS,NS
+kurtosis ampl delta,NS,NS,NS,NS,NS,NS,NS,NS,F6,NS,NS,NS
+kurtosis ampl gamma,NS,NS,NS,PO9,NS,NS,NS,NS,NS,NS,NS,NS
+kurtosis ampl theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+life time alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+life time beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,AF8,NS,NS
+life time delta,NS,NS,NS,NS,NS,NS,NS,P6,NS,NS,NS,NS
+life time gamma,NS,NS,NS,NS,NS,NS,NS,NS,C2,O1,NS,NS
+life time theta,NS,NS,NS,C4,NS,NS,NS,NS,NS,NS,NS,NS
+lyapunov exponent,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+lzc exhaustive,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+lzc primitive,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mean ampl alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mean ampl beta,F8,NS,NS,NS,P2,NS,NS,NS,NS,NS,NS,NS
+mean ampl delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mean ampl gamma,PO7,NS,NS,NS,C4,NS,NS,NS,NS,NS,NS,NS
+mean ampl theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+microstate A,NS,NS,NS,NS,NS,NS,Group1_Map1_SegDensity,NS,NS,NS,NS,NS
+microstate B,NS,NS,NS,Group1_Map2_SegDensity,NS,NS,NS,NS,NS,NS,NS,NS
+microstate C,NS,NS,NS,Group1_Map3_SegDensity,NS,NS,NS,NS,NS,Group1_Map3_SegDensity,NS,NS
+microstate D,NS,NS,NS,NS,NS,NS,NS,Group1_Map4_MeanDur,NS,NS,NS,NS
+microstate E,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mod index alpha-beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,FC6,NS,NS
+mod index alpha-gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,CP3,NS,NS
+mod index beta-gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mod index delta-alpha,NS,NS,NS,NS,NS,NS,F3,NS,NS,AF7,NS,NS
+mod index delta-beta,F5,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mod index delta-gamma,NS,NS,NS,NS,PO7,NS,NS,NS,NS,NS,NS,NS
+mod index delta-theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+mod index theta-alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,F1,NS,NS
+mod index theta-beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,CP2,NS,NS
+mod index theta-gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-icoh alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-icoh beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-icoh delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-icoh gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-icoh theta,NS,NS,NS,NS,NS,NS,C5,O1,NS,NS,O1,NS
+node str e-plv alpha,NS,NS,NS,NS,NS,NS,AF8,Fp2,NS,NS,NS,NS
+node str e-plv beta,NS,NS,NS,NS,NS,NS,NS,POz,NS,NS,F5,NS
+node str e-plv delta,NS,NS,NS,NS,NS,NS,F2,F1,P3,NS,F2,NS
+node str e-plv gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-plv theta,NS,NS,NS,NS,NS,NS,Fp1,Fp2,NS,NS,F2,NS
+node str e-wpli alpha,NS,NS,NS,C6,NS,NS,AF8,NS,NS,NS,NS,NS
+node str e-wpli beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-wpli delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-wpli gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str e-wpli theta,NS,NS,NS,NS,NS,NS,CP3,NS,NS,NS,TP7,NS
+node str s-lcoh alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,LInsula,NS,NS
+node str s-lcoh beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,LSuperiorParietalLobule,RParacentralLobule,NS
+node str s-lcoh delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str s-lcoh gamma,NS,NS,NS,NS,LSupplementaryMotorArea,NS,NS,NS,NS,NS,NS,NS
+node str s-lcoh theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str s-lps alpha,NS,NS,NS,NS,NS,LSuperiorParietalLobule,NS,NS,NS,NS,NS,NS
+node str s-lps beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str s-lps delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str s-lps gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+node str s-lps theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+permutation entropy,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range asymmetry alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range asymmetry beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range asymmetry delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range asymmetry gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range asymmetry theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range coef var alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range coef var beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,AF8,NS,NS
+range coef var delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range coef var gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+range coef var theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+relative ampl alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+relative ampl beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+relative ampl delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+relative ampl gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+relative ampl theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa determinism,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa entropy,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa laminarity,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa max diagonal,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa max vertical,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa mean diagonal,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa rte,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+rqa trapping time,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+sample entropy,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+skewness ampl alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,F5,NS,POz
+skewness ampl beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+skewness ampl delta,FT7,NS,NS,NS,NS,NS,NS,CP1,NS,NS,NS,NS
+skewness ampl gamma,NS,NS,NS,NS,NS,NS,NS,NS,C1,NS,NS,NS
+skewness ampl theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+source ampl alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+source ampl beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+source ampl delta,RHeschlGyrus,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+source ampl gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+source ampl theta,RSuperiorTemporalGyrus,NS,NS,NS,NS,NS,NS,NS,NS,RSuperiorFrontalGyrusMedialPart,NS,NS
+spectral entropy alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+spectral entropy beta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+spectral entropy delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+spectral entropy gamma,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+spectral entropy theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+std ampl alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+std ampl beta,F8,NS,NS,NS,P2,NS,NS,NS,NS,NS,NS,NS
+std ampl delta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+std ampl gamma,PO7,NS,NS,NS,C4,NS,NS,NS,NS,NS,NS,NS
+std ampl theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+waiting time alpha,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
+waiting time beta,NS,NS,NS,NS,NS,NS,NS,NS,C5,FC5,NS,NS
+waiting time delta,NS,NS,NS,NS,NS,NS,NS,FC4,NS,NS,NS,NS
+waiting time gamma,NS,NS,NS,NS,NS,NS,NS,NS,P5,FC6,NS,NS
+waiting time theta,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS
